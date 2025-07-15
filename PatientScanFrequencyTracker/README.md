@@ -1,5 +1,5 @@
 # Patient Scan Frequency Tracker
-### Prompt:
+
 You receive logs of:
 
 ```python
