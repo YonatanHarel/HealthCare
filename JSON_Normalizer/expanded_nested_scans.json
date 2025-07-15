@@ -1,0 +1,322 @@
+[
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T10:00:00Z"
+    },
+    "data": {
+      "patient_id": "P100",
+      "scan": {
+        "scan_id": "S100",
+        "ai_result": {
+          "score": 0.93,
+          "label": "no_finding"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T10:15:00Z"
+    },
+    "data": {
+      "patient_id": "P101",
+      "scan": {
+        "scan_id": "S101",
+        "ai_result": {
+          "score": 0.9,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T10:30:00Z"
+    },
+    "data": {
+      "patient_id": "P102",
+      "scan": {
+        "scan_id": "S102",
+        "ai_result": {
+          "score": 0.74,
+          "label": "lvo_detected"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T10:45:00Z"
+    },
+    "data": {
+      "patient_id": "P103",
+      "scan": {
+        "scan_id": "S103",
+        "ai_result": {
+          "score": 0.86,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T11:00:00Z"
+    },
+    "data": {
+      "patient_id": "P104",
+      "scan": {
+        "scan_id": "S104",
+        "ai_result": {
+          "score": 0.89,
+          "label": "no_finding"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T11:15:00Z"
+    },
+    "data": {
+      "patient_id": "P105",
+      "scan": {
+        "scan_id": "S105",
+        "ai_result": {
+          "score": 0.77,
+          "label": "lvo_detected"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T11:30:00Z"
+    },
+    "data": {
+      "patient_id": "P106",
+      "scan": {
+        "scan_id": "S106",
+        "ai_result": {
+          "score": 0.91,
+          "label": "no_finding"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T11:45:00Z"
+    },
+    "data": {
+      "patient_id": "P107",
+      "scan": {
+        "scan_id": "S107",
+        "ai_result": {
+          "score": 0.74,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T12:00:00Z"
+    },
+    "data": {
+      "patient_id": "P108",
+      "scan": {
+        "scan_id": "S108",
+        "ai_result": {
+          "score": 0.86,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T12:15:00Z"
+    },
+    "data": {
+      "patient_id": "P109",
+      "scan": {
+        "scan_id": "S109",
+        "ai_result": {
+          "score": 0.71,
+          "label": "lvo_detected"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T12:30:00Z"
+    },
+    "data": {
+      "patient_id": "P110",
+      "scan": {
+        "scan_id": "S110",
+        "ai_result": {
+          "score": 0.77,
+          "label": "lvo_detected"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T12:45:00Z"
+    },
+    "data": {
+      "patient_id": "P111",
+      "scan": {
+        "scan_id": "S111",
+        "ai_result": {
+          "score": 0.73,
+          "label": "no_finding"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T13:00:00Z"
+    },
+    "data": {
+      "patient_id": "P112",
+      "scan": {
+        "scan_id": "S112",
+        "ai_result": {
+          "score": 0.76,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T13:15:00Z"
+    },
+    "data": {
+      "patient_id": "P113",
+      "scan": {
+        "scan_id": "S113",
+        "ai_result": {
+          "score": 0.95,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T13:30:00Z"
+    },
+    "data": {
+      "patient_id": "P114",
+      "scan": {
+        "scan_id": "S114",
+        "ai_result": {
+          "score": 0.97,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T13:45:00Z"
+    },
+    "data": {
+      "patient_id": "P115",
+      "scan": {
+        "scan_id": "S115",
+        "ai_result": {
+          "score": 0.9,
+          "label": "no_finding"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T14:00:00Z"
+    },
+    "data": {
+      "patient_id": "P116",
+      "scan": {
+        "scan_id": "S116",
+        "ai_result": {
+          "score": 0.75,
+          "label": "lvo_detected"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T14:15:00Z"
+    },
+    "data": {
+      "patient_id": "P117",
+      "scan": {
+        "scan_id": "S117",
+        "ai_result": {
+          "score": 0.93,
+          "label": "inconclusive"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T14:30:00Z"
+    },
+    "data": {
+      "patient_id": "P118",
+      "scan": {
+        "scan_id": "S118",
+        "ai_result": {
+          "score": 0.74,
+          "label": "no_finding"
+        }
+      }
+    }
+  },
+  {
+    "meta": {
+      "model_version": "v1.3",
+      "received_at": "2025-07-12T14:45:00Z"
+    },
+    "data": {
+      "patient_id": "P119",
+      "scan": {
+        "scan_id": "S119",
+        "ai_result": {
+          "score": 0.73,
+          "label": "no_finding"
+        }
+      }
+    }
+  }
+]
