@@ -1,0 +1,56 @@
+[
+  {
+    "patient_id": "patient_314",
+    "scan_id": "scan_1313",
+    "scan_time": "2025-07-15T16:30:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_514",
+    "scan_id": "scan_1513",
+    "scan_time": "2025-07-17T01:50:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_622",
+    "scan_id": "scan_1621",
+    "scan_time": "2025-07-18T18:10:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_266",
+    "scan_id": "scan_1265",
+    "scan_time": "2025-07-15T08:30:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_294",
+    "scan_id": "scan_1293",
+    "scan_time": "2025-07-15T13:10:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_514",
+    "scan_id": "scan_2400",
+    "scan_time": "2025-07-14T05:20:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_756",
+    "scan_id": "scan_1755",
+    "scan_time": "2025-07-18T18:10:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_622",
+    "scan_id": "scan_1108",
+    "scan_time": "2025-07-14T06:20:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_622",
+    "scan_id": "scan_1080",
+    "scan_time": "2025-07-14T01:40:00",
+    "ai_score": 0.46
+  }
+]
