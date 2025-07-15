@@ -1,5 +1,5 @@
 # Anomaly Detector
-### Prompt:
+
 You get a stream of ai_score values. Write a function that:
 * Tracks a rolling mean and std dev
 * Flags any new value as an anomaly if it's more than 2 std dev away from the mean
