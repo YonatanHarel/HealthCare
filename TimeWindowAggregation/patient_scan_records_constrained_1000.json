@@ -1,0 +1,6002 @@
+[
+  {
+    "patient_id": "patient_314",
+    "scan_id": "scan_1313",
+    "scan_time": "2025-07-15T16:30:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_514",
+    "scan_id": "scan_1513",
+    "scan_time": "2025-07-17T01:50:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_622",
+    "scan_id": "scan_1621",
+    "scan_time": "2025-07-17T01:50:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_266",
+    "scan_id": "scan_1265",
+    "scan_time": "2025-07-15T08:30:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_294",
+    "scan_id": "scan_1293",
+    "scan_time": "2025-07-15T13:10:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_103",
+    "scan_id": "scan_1102",
+    "scan_time": "2025-07-14T05:20:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_756",
+    "scan_id": "scan_1755",
+    "scan_time": "2025-07-18T18:10:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_109",
+    "scan_id": "scan_1108",
+    "scan_time": "2025-07-14T06:20:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_81",
+    "scan_id": "scan_1080",
+    "scan_time": "2025-07-14T01:40:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_932",
+    "scan_id": "scan_1931",
+    "scan_time": "2025-07-19T23:30:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_108",
+    "scan_id": "scan_1107",
+    "scan_time": "2025-07-14T06:10:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_971",
+    "scan_id": "scan_1970",
+    "scan_time": "2025-07-20T06:00:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_704",
+    "scan_id": "scan_1703",
+    "scan_time": "2025-07-18T09:30:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_817",
+    "scan_id": "scan_1816",
+    "scan_time": "2025-07-19T04:20:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_424",
+    "scan_id": "scan_1423",
+    "scan_time": "2025-07-16T10:50:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_556",
+    "scan_id": "scan_1555",
+    "scan_time": "2025-07-17T08:50:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_104",
+    "scan_id": "scan_1103",
+    "scan_time": "2025-07-14T05:30:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_283",
+    "scan_id": "scan_1282",
+    "scan_time": "2025-07-15T11:20:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_276",
+    "scan_id": "scan_1275",
+    "scan_time": "2025-07-15T10:10:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_106",
+    "scan_id": "scan_1105",
+    "scan_time": "2025-07-14T05:50:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_405",
+    "scan_id": "scan_1404",
+    "scan_time": "2025-07-16T07:40:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_181",
+    "scan_id": "scan_1180",
+    "scan_time": "2025-07-14T18:20:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_505",
+    "scan_id": "scan_1504",
+    "scan_time": "2025-07-17T00:20:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_513",
+    "scan_id": "scan_1512",
+    "scan_time": "2025-07-17T01:40:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_691",
+    "scan_id": "scan_1690",
+    "scan_time": "2025-07-18T07:20:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_56",
+    "scan_id": "scan_1055",
+    "scan_time": "2025-07-13T21:30:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_223",
+    "scan_id": "scan_1222",
+    "scan_time": "2025-07-15T01:20:00",
+    "ai_score": 0.82
+  },
+  {
+    "patient_id": "patient_312",
+    "scan_id": "scan_1311",
+    "scan_time": "2025-07-15T16:10:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_896",
+    "scan_id": "scan_1895",
+    "scan_time": "2025-07-19T17:30:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_765",
+    "scan_id": "scan_1764",
+    "scan_time": "2025-07-18T19:40:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_316",
+    "scan_id": "scan_1315",
+    "scan_time": "2025-07-15T16:50:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_567",
+    "scan_id": "scan_1566",
+    "scan_time": "2025-07-17T10:40:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_686",
+    "scan_id": "scan_1685",
+    "scan_time": "2025-07-18T06:30:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_548",
+    "scan_id": "scan_1547",
+    "scan_time": "2025-07-17T07:30:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_280",
+    "scan_id": "scan_1279",
+    "scan_time": "2025-07-15T10:50:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_15",
+    "scan_id": "scan_1014",
+    "scan_time": "2025-07-13T14:40:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_307",
+    "scan_id": "scan_1306",
+    "scan_time": "2025-07-15T15:20:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_409",
+    "scan_id": "scan_1408",
+    "scan_time": "2025-07-16T08:20:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_78",
+    "scan_id": "scan_1077",
+    "scan_time": "2025-07-14T01:10:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_76",
+    "scan_id": "scan_1075",
+    "scan_time": "2025-07-14T00:50:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_685",
+    "scan_id": "scan_1684",
+    "scan_time": "2025-07-18T06:20:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_601",
+    "scan_id": "scan_1600",
+    "scan_time": "2025-07-17T16:20:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_764",
+    "scan_id": "scan_1763",
+    "scan_time": "2025-07-18T19:30:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_195",
+    "scan_id": "scan_1194",
+    "scan_time": "2025-07-14T20:40:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_860",
+    "scan_id": "scan_1859",
+    "scan_time": "2025-07-19T11:30:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_941",
+    "scan_id": "scan_1940",
+    "scan_time": "2025-07-20T01:00:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_156",
+    "scan_id": "scan_1155",
+    "scan_time": "2025-07-14T14:10:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_909",
+    "scan_id": "scan_1908",
+    "scan_time": "2025-07-19T19:40:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_606",
+    "scan_id": "scan_1605",
+    "scan_time": "2025-07-17T17:10:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_310",
+    "scan_id": "scan_1309",
+    "scan_time": "2025-07-15T15:50:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_58",
+    "scan_id": "scan_1057",
+    "scan_time": "2025-07-13T21:50:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_59",
+    "scan_id": "scan_1058",
+    "scan_time": "2025-07-13T22:00:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_770",
+    "scan_id": "scan_1769",
+    "scan_time": "2025-07-18T20:30:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_951",
+    "scan_id": "scan_1950",
+    "scan_time": "2025-07-20T02:40:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_463",
+    "scan_id": "scan_1462",
+    "scan_time": "2025-07-16T17:20:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_292",
+    "scan_id": "scan_1291",
+    "scan_time": "2025-07-15T12:50:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_815",
+    "scan_id": "scan_1814",
+    "scan_time": "2025-07-19T04:00:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_118",
+    "scan_id": "scan_1117",
+    "scan_time": "2025-07-14T07:50:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_162",
+    "scan_id": "scan_1161",
+    "scan_time": "2025-07-14T15:10:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_250",
+    "scan_id": "scan_1249",
+    "scan_time": "2025-07-15T05:50:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_914",
+    "scan_id": "scan_1913",
+    "scan_time": "2025-07-19T20:30:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_552",
+    "scan_id": "scan_1551",
+    "scan_time": "2025-07-17T08:10:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_451",
+    "scan_id": "scan_1450",
+    "scan_time": "2025-07-16T15:20:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_943",
+    "scan_id": "scan_1942",
+    "scan_time": "2025-07-20T01:20:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_673",
+    "scan_id": "scan_1672",
+    "scan_time": "2025-07-18T04:20:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_208",
+    "scan_id": "scan_1207",
+    "scan_time": "2025-07-14T22:50:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_982",
+    "scan_id": "scan_1981",
+    "scan_time": "2025-07-20T07:50:00",
+    "ai_score": 0.12
+  },
+  {
+    "patient_id": "patient_219",
+    "scan_id": "scan_1218",
+    "scan_time": "2025-07-15T00:40:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_801",
+    "scan_id": "scan_1800",
+    "scan_time": "2025-07-19T01:40:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_57",
+    "scan_id": "scan_1056",
+    "scan_time": "2025-07-13T21:40:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_89",
+    "scan_id": "scan_1088",
+    "scan_time": "2025-07-14T03:00:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_832",
+    "scan_id": "scan_1831",
+    "scan_time": "2025-07-19T06:50:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_187",
+    "scan_id": "scan_1186",
+    "scan_time": "2025-07-14T19:20:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_192",
+    "scan_id": "scan_1191",
+    "scan_time": "2025-07-14T20:10:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_379",
+    "scan_id": "scan_1378",
+    "scan_time": "2025-07-16T03:20:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_44",
+    "scan_id": "scan_1043",
+    "scan_time": "2025-07-13T19:30:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_952",
+    "scan_id": "scan_1951",
+    "scan_time": "2025-07-20T02:50:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_442",
+    "scan_id": "scan_1441",
+    "scan_time": "2025-07-16T13:50:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_341",
+    "scan_id": "scan_1340",
+    "scan_time": "2025-07-15T21:00:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_336",
+    "scan_id": "scan_1335",
+    "scan_time": "2025-07-15T20:10:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_412",
+    "scan_id": "scan_1411",
+    "scan_time": "2025-07-16T08:50:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_864",
+    "scan_id": "scan_1863",
+    "scan_time": "2025-07-19T12:10:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_627",
+    "scan_id": "scan_1626",
+    "scan_time": "2025-07-17T20:40:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_536",
+    "scan_id": "scan_1535",
+    "scan_time": "2025-07-17T05:30:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_531",
+    "scan_id": "scan_1530",
+    "scan_time": "2025-07-17T04:40:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_205",
+    "scan_id": "scan_1204",
+    "scan_time": "2025-07-14T22:20:00",
+    "ai_score": 0.71
+  },
+  {
+    "patient_id": "patient_853",
+    "scan_id": "scan_1852",
+    "scan_time": "2025-07-19T10:20:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_185",
+    "scan_id": "scan_1184",
+    "scan_time": "2025-07-14T19:00:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_571",
+    "scan_id": "scan_1570",
+    "scan_time": "2025-07-17T11:20:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_716",
+    "scan_id": "scan_1715",
+    "scan_time": "2025-07-18T11:30:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_871",
+    "scan_id": "scan_1870",
+    "scan_time": "2025-07-19T13:20:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_920",
+    "scan_id": "scan_1919",
+    "scan_time": "2025-07-19T21:30:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_714",
+    "scan_id": "scan_1713",
+    "scan_time": "2025-07-18T11:10:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_474",
+    "scan_id": "scan_1473",
+    "scan_time": "2025-07-16T19:10:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_121",
+    "scan_id": "scan_1120",
+    "scan_time": "2025-07-14T08:20:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_46",
+    "scan_id": "scan_1045",
+    "scan_time": "2025-07-13T19:50:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_220",
+    "scan_id": "scan_1219",
+    "scan_time": "2025-07-15T00:50:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_793",
+    "scan_id": "scan_1792",
+    "scan_time": "2025-07-19T00:20:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_206",
+    "scan_id": "scan_1205",
+    "scan_time": "2025-07-14T22:30:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_355",
+    "scan_id": "scan_1354",
+    "scan_time": "2025-07-15T23:20:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_140",
+    "scan_id": "scan_1139",
+    "scan_time": "2025-07-14T11:30:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_783",
+    "scan_id": "scan_1782",
+    "scan_time": "2025-07-18T22:40:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_641",
+    "scan_id": "scan_1640",
+    "scan_time": "2025-07-17T23:00:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_389",
+    "scan_id": "scan_1388",
+    "scan_time": "2025-07-16T05:00:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_940",
+    "scan_id": "scan_1939",
+    "scan_time": "2025-07-20T00:50:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_10",
+    "scan_id": "scan_1009",
+    "scan_time": "2025-07-13T13:50:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_45",
+    "scan_id": "scan_1044",
+    "scan_time": "2025-07-13T19:40:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_510",
+    "scan_id": "scan_1509",
+    "scan_time": "2025-07-17T01:10:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_812",
+    "scan_id": "scan_1811",
+    "scan_time": "2025-07-19T03:30:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_1",
+    "scan_id": "scan_1000",
+    "scan_time": "2025-07-13T12:20:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_792",
+    "scan_id": "scan_1791",
+    "scan_time": "2025-07-19T00:10:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_968",
+    "scan_id": "scan_1967",
+    "scan_time": "2025-07-20T05:30:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_429",
+    "scan_id": "scan_1428",
+    "scan_time": "2025-07-16T11:40:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_382",
+    "scan_id": "scan_1381",
+    "scan_time": "2025-07-16T03:50:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_679",
+    "scan_id": "scan_1678",
+    "scan_time": "2025-07-18T05:20:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_722",
+    "scan_id": "scan_1721",
+    "scan_time": "2025-07-18T12:30:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_24",
+    "scan_id": "scan_1023",
+    "scan_time": "2025-07-13T16:10:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_699",
+    "scan_id": "scan_1698",
+    "scan_time": "2025-07-18T08:40:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_746",
+    "scan_id": "scan_1745",
+    "scan_time": "2025-07-18T16:30:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_373",
+    "scan_id": "scan_1372",
+    "scan_time": "2025-07-16T02:20:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_337",
+    "scan_id": "scan_1336",
+    "scan_time": "2025-07-15T20:20:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_48",
+    "scan_id": "scan_1047",
+    "scan_time": "2025-07-13T20:10:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_984",
+    "scan_id": "scan_1983",
+    "scan_time": "2025-07-20T08:10:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_245",
+    "scan_id": "scan_1244",
+    "scan_time": "2025-07-15T05:00:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_995",
+    "scan_id": "scan_1994",
+    "scan_time": "2025-07-20T10:00:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_851",
+    "scan_id": "scan_1850",
+    "scan_time": "2025-07-19T10:00:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_290",
+    "scan_id": "scan_1289",
+    "scan_time": "2025-07-15T12:30:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_847",
+    "scan_id": "scan_1846",
+    "scan_time": "2025-07-19T09:20:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_891",
+    "scan_id": "scan_1890",
+    "scan_time": "2025-07-19T16:40:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_802",
+    "scan_id": "scan_1801",
+    "scan_time": "2025-07-19T01:50:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_95",
+    "scan_id": "scan_1094",
+    "scan_time": "2025-07-14T04:00:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_53",
+    "scan_id": "scan_1052",
+    "scan_time": "2025-07-13T21:00:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_23",
+    "scan_id": "scan_1022",
+    "scan_time": "2025-07-13T16:00:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_797",
+    "scan_id": "scan_1796",
+    "scan_time": "2025-07-19T01:00:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_568",
+    "scan_id": "scan_1567",
+    "scan_time": "2025-07-17T10:50:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_55",
+    "scan_id": "scan_1054",
+    "scan_time": "2025-07-13T21:20:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_721",
+    "scan_id": "scan_1720",
+    "scan_time": "2025-07-18T12:20:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_209",
+    "scan_id": "scan_1208",
+    "scan_time": "2025-07-14T23:00:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_596",
+    "scan_id": "scan_1595",
+    "scan_time": "2025-07-17T15:30:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_732",
+    "scan_id": "scan_1731",
+    "scan_time": "2025-07-18T14:10:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_989",
+    "scan_id": "scan_1988",
+    "scan_time": "2025-07-20T09:00:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_645",
+    "scan_id": "scan_1644",
+    "scan_time": "2025-07-17T23:40:00",
+    "ai_score": 0.83
+  },
+  {
+    "patient_id": "patient_597",
+    "scan_id": "scan_1596",
+    "scan_time": "2025-07-17T15:40:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_169",
+    "scan_id": "scan_1168",
+    "scan_time": "2025-07-14T16:20:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_692",
+    "scan_id": "scan_1691",
+    "scan_time": "2025-07-18T07:30:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_693",
+    "scan_id": "scan_1692",
+    "scan_time": "2025-07-18T07:40:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_854",
+    "scan_id": "scan_1853",
+    "scan_time": "2025-07-19T10:30:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_755",
+    "scan_id": "scan_1754",
+    "scan_time": "2025-07-18T18:00:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_278",
+    "scan_id": "scan_1277",
+    "scan_time": "2025-07-15T10:30:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_706",
+    "scan_id": "scan_1705",
+    "scan_time": "2025-07-18T09:50:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_655",
+    "scan_id": "scan_1654",
+    "scan_time": "2025-07-18T01:20:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_558",
+    "scan_id": "scan_1557",
+    "scan_time": "2025-07-17T09:10:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_203",
+    "scan_id": "scan_1202",
+    "scan_time": "2025-07-14T22:00:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_21",
+    "scan_id": "scan_1020",
+    "scan_time": "2025-07-13T15:40:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_544",
+    "scan_id": "scan_1543",
+    "scan_time": "2025-07-17T06:50:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_462",
+    "scan_id": "scan_1461",
+    "scan_time": "2025-07-16T17:10:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_650",
+    "scan_id": "scan_1649",
+    "scan_time": "2025-07-18T00:30:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_305",
+    "scan_id": "scan_1304",
+    "scan_time": "2025-07-15T15:00:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_84",
+    "scan_id": "scan_1083",
+    "scan_time": "2025-07-14T02:10:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_37",
+    "scan_id": "scan_1036",
+    "scan_time": "2025-07-13T18:20:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_600",
+    "scan_id": "scan_1599",
+    "scan_time": "2025-07-17T16:10:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_581",
+    "scan_id": "scan_1580",
+    "scan_time": "2025-07-17T13:00:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_738",
+    "scan_id": "scan_1737",
+    "scan_time": "2025-07-18T15:10:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_385",
+    "scan_id": "scan_1384",
+    "scan_time": "2025-07-16T04:20:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_524",
+    "scan_id": "scan_1523",
+    "scan_time": "2025-07-17T03:30:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_594",
+    "scan_id": "scan_1593",
+    "scan_time": "2025-07-17T15:10:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_167",
+    "scan_id": "scan_1166",
+    "scan_time": "2025-07-14T16:00:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_837",
+    "scan_id": "scan_1836",
+    "scan_time": "2025-07-19T07:40:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_844",
+    "scan_id": "scan_1843",
+    "scan_time": "2025-07-19T08:50:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_509",
+    "scan_id": "scan_1508",
+    "scan_time": "2025-07-17T01:00:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_28",
+    "scan_id": "scan_1027",
+    "scan_time": "2025-07-13T16:50:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_243",
+    "scan_id": "scan_1242",
+    "scan_time": "2025-07-15T04:40:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_931",
+    "scan_id": "scan_1930",
+    "scan_time": "2025-07-19T23:20:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_933",
+    "scan_id": "scan_1932",
+    "scan_time": "2025-07-19T23:40:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_638",
+    "scan_id": "scan_1637",
+    "scan_time": "2025-07-17T22:30:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_757",
+    "scan_id": "scan_1756",
+    "scan_time": "2025-07-18T18:20:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_975",
+    "scan_id": "scan_1974",
+    "scan_time": "2025-07-20T06:40:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_672",
+    "scan_id": "scan_1671",
+    "scan_time": "2025-07-18T04:10:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_197",
+    "scan_id": "scan_1196",
+    "scan_time": "2025-07-14T21:00:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_415",
+    "scan_id": "scan_1414",
+    "scan_time": "2025-07-16T09:20:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_322",
+    "scan_id": "scan_1321",
+    "scan_time": "2025-07-15T17:50:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_624",
+    "scan_id": "scan_1623",
+    "scan_time": "2025-07-17T20:10:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_85",
+    "scan_id": "scan_1084",
+    "scan_time": "2025-07-14T02:20:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_647",
+    "scan_id": "scan_1646",
+    "scan_time": "2025-07-18T00:00:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_573",
+    "scan_id": "scan_1572",
+    "scan_time": "2025-07-17T11:40:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_501",
+    "scan_id": "scan_1500",
+    "scan_time": "2025-07-16T23:40:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_734",
+    "scan_id": "scan_1733",
+    "scan_time": "2025-07-18T14:30:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_259",
+    "scan_id": "scan_1258",
+    "scan_time": "2025-07-15T07:20:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_800",
+    "scan_id": "scan_1799",
+    "scan_time": "2025-07-19T01:30:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_413",
+    "scan_id": "scan_1412",
+    "scan_time": "2025-07-16T09:00:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_763",
+    "scan_id": "scan_1762",
+    "scan_time": "2025-07-18T19:20:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_610",
+    "scan_id": "scan_1609",
+    "scan_time": "2025-07-17T17:50:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_551",
+    "scan_id": "scan_1550",
+    "scan_time": "2025-07-17T08:00:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_804",
+    "scan_id": "scan_1803",
+    "scan_time": "2025-07-19T02:10:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_464",
+    "scan_id": "scan_1463",
+    "scan_time": "2025-07-16T17:30:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_737",
+    "scan_id": "scan_1736",
+    "scan_time": "2025-07-18T15:00:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_986",
+    "scan_id": "scan_1985",
+    "scan_time": "2025-07-20T08:30:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_657",
+    "scan_id": "scan_1656",
+    "scan_time": "2025-07-18T01:40:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_894",
+    "scan_id": "scan_1893",
+    "scan_time": "2025-07-19T17:10:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_142",
+    "scan_id": "scan_1141",
+    "scan_time": "2025-07-14T11:50:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_546",
+    "scan_id": "scan_1545",
+    "scan_time": "2025-07-17T07:10:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_467",
+    "scan_id": "scan_1466",
+    "scan_time": "2025-07-16T18:00:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_903",
+    "scan_id": "scan_1902",
+    "scan_time": "2025-07-19T18:40:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_841",
+    "scan_id": "scan_1840",
+    "scan_time": "2025-07-19T08:20:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_651",
+    "scan_id": "scan_1650",
+    "scan_time": "2025-07-18T00:40:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_923",
+    "scan_id": "scan_1922",
+    "scan_time": "2025-07-19T22:00:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_117",
+    "scan_id": "scan_1116",
+    "scan_time": "2025-07-14T07:40:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_403",
+    "scan_id": "scan_1402",
+    "scan_time": "2025-07-16T07:20:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_928",
+    "scan_id": "scan_1927",
+    "scan_time": "2025-07-19T22:50:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_11",
+    "scan_id": "scan_1010",
+    "scan_time": "2025-07-13T14:00:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_848",
+    "scan_id": "scan_1847",
+    "scan_time": "2025-07-19T09:30:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_752",
+    "scan_id": "scan_1751",
+    "scan_time": "2025-07-18T17:30:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_902",
+    "scan_id": "scan_1901",
+    "scan_time": "2025-07-19T18:30:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_175",
+    "scan_id": "scan_1174",
+    "scan_time": "2025-07-14T17:20:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_433",
+    "scan_id": "scan_1432",
+    "scan_time": "2025-07-16T12:20:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_554",
+    "scan_id": "scan_1553",
+    "scan_time": "2025-07-17T08:30:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_810",
+    "scan_id": "scan_1809",
+    "scan_time": "2025-07-19T03:10:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_584",
+    "scan_id": "scan_1583",
+    "scan_time": "2025-07-17T13:30:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_701",
+    "scan_id": "scan_1700",
+    "scan_time": "2025-07-18T09:00:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_443",
+    "scan_id": "scan_1442",
+    "scan_time": "2025-07-16T14:00:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_166",
+    "scan_id": "scan_1165",
+    "scan_time": "2025-07-14T15:50:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_924",
+    "scan_id": "scan_1923",
+    "scan_time": "2025-07-19T22:10:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_798",
+    "scan_id": "scan_1797",
+    "scan_time": "2025-07-19T01:10:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_661",
+    "scan_id": "scan_1660",
+    "scan_time": "2025-07-18T02:20:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_410",
+    "scan_id": "scan_1409",
+    "scan_time": "2025-07-16T08:30:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_695",
+    "scan_id": "scan_1694",
+    "scan_time": "2025-07-18T08:00:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_768",
+    "scan_id": "scan_1767",
+    "scan_time": "2025-07-18T20:10:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_311",
+    "scan_id": "scan_1310",
+    "scan_time": "2025-07-15T16:00:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_264",
+    "scan_id": "scan_1263",
+    "scan_time": "2025-07-15T08:10:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_761",
+    "scan_id": "scan_1760",
+    "scan_time": "2025-07-18T19:00:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_52",
+    "scan_id": "scan_1051",
+    "scan_time": "2025-07-13T20:50:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_547",
+    "scan_id": "scan_1546",
+    "scan_time": "2025-07-17T07:20:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_60",
+    "scan_id": "scan_1059",
+    "scan_time": "2025-07-13T22:10:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_147",
+    "scan_id": "scan_1146",
+    "scan_time": "2025-07-14T12:40:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_472",
+    "scan_id": "scan_1471",
+    "scan_time": "2025-07-16T18:50:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_188",
+    "scan_id": "scan_1187",
+    "scan_time": "2025-07-14T19:30:00",
+    "ai_score": 0.8
+  },
+  {
+    "patient_id": "patient_959",
+    "scan_id": "scan_1958",
+    "scan_time": "2025-07-20T04:00:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_19",
+    "scan_id": "scan_1018",
+    "scan_time": "2025-07-13T15:20:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_762",
+    "scan_id": "scan_1761",
+    "scan_time": "2025-07-18T19:10:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_725",
+    "scan_id": "scan_1724",
+    "scan_time": "2025-07-18T13:00:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_915",
+    "scan_id": "scan_1914",
+    "scan_time": "2025-07-19T20:40:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_904",
+    "scan_id": "scan_1903",
+    "scan_time": "2025-07-19T18:50:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_816",
+    "scan_id": "scan_1815",
+    "scan_time": "2025-07-19T04:10:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_473",
+    "scan_id": "scan_1472",
+    "scan_time": "2025-07-16T19:00:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_83",
+    "scan_id": "scan_1082",
+    "scan_time": "2025-07-14T02:00:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_953",
+    "scan_id": "scan_1952",
+    "scan_time": "2025-07-20T03:00:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_707",
+    "scan_id": "scan_1706",
+    "scan_time": "2025-07-18T10:00:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_155",
+    "scan_id": "scan_1154",
+    "scan_time": "2025-07-14T14:00:00",
+    "ai_score": 0.12
+  },
+  {
+    "patient_id": "patient_216",
+    "scan_id": "scan_1215",
+    "scan_time": "2025-07-15T00:10:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_256",
+    "scan_id": "scan_1255",
+    "scan_time": "2025-07-15T06:50:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_969",
+    "scan_id": "scan_1968",
+    "scan_time": "2025-07-20T05:40:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_179",
+    "scan_id": "scan_1178",
+    "scan_time": "2025-07-14T18:00:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_116",
+    "scan_id": "scan_1115",
+    "scan_time": "2025-07-14T07:30:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_715",
+    "scan_id": "scan_1714",
+    "scan_time": "2025-07-18T11:20:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_168",
+    "scan_id": "scan_1167",
+    "scan_time": "2025-07-14T16:10:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_51",
+    "scan_id": "scan_1050",
+    "scan_time": "2025-07-13T20:40:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_724",
+    "scan_id": "scan_1723",
+    "scan_time": "2025-07-18T12:50:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_295",
+    "scan_id": "scan_1294",
+    "scan_time": "2025-07-15T13:20:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_260",
+    "scan_id": "scan_1259",
+    "scan_time": "2025-07-15T07:30:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_543",
+    "scan_id": "scan_1542",
+    "scan_time": "2025-07-17T06:40:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_493",
+    "scan_id": "scan_1492",
+    "scan_time": "2025-07-16T22:20:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_820",
+    "scan_id": "scan_1819",
+    "scan_time": "2025-07-19T04:50:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_490",
+    "scan_id": "scan_1489",
+    "scan_time": "2025-07-16T21:50:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_822",
+    "scan_id": "scan_1821",
+    "scan_time": "2025-07-19T05:10:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_671",
+    "scan_id": "scan_1670",
+    "scan_time": "2025-07-18T04:00:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_449",
+    "scan_id": "scan_1448",
+    "scan_time": "2025-07-16T15:00:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_526",
+    "scan_id": "scan_1525",
+    "scan_time": "2025-07-17T03:50:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_992",
+    "scan_id": "scan_1991",
+    "scan_time": "2025-07-20T09:30:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_286",
+    "scan_id": "scan_1285",
+    "scan_time": "2025-07-15T11:50:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": null,
+    "scan_id": "scan_null_2",
+    "scan_time": "2025-07-13T12:10:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_136",
+    "scan_id": "scan_1135",
+    "scan_time": "2025-07-14T10:50:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_324",
+    "scan_id": "scan_1323",
+    "scan_time": "2025-07-15T18:10:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_664",
+    "scan_id": "scan_1663",
+    "scan_time": "2025-07-18T02:50:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_113",
+    "scan_id": "scan_1112",
+    "scan_time": "2025-07-14T07:00:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_160",
+    "scan_id": "scan_1159",
+    "scan_time": "2025-07-14T14:50:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_799",
+    "scan_id": "scan_1798",
+    "scan_time": "2025-07-19T01:20:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_138",
+    "scan_id": "scan_1137",
+    "scan_time": "2025-07-14T11:10:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_670",
+    "scan_id": "scan_1669",
+    "scan_time": "2025-07-18T03:50:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_317",
+    "scan_id": "scan_1316",
+    "scan_time": "2025-07-15T17:00:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_289",
+    "scan_id": "scan_1288",
+    "scan_time": "2025-07-15T12:20:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_297",
+    "scan_id": "scan_1296",
+    "scan_time": "2025-07-15T13:40:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": null,
+    "scan_id": "scan_null_1",
+    "scan_time": "2025-07-13T12:00:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_702",
+    "scan_id": "scan_1701",
+    "scan_time": "2025-07-18T09:10:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_495",
+    "scan_id": "scan_1494",
+    "scan_time": "2025-07-16T22:40:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_540",
+    "scan_id": "scan_1539",
+    "scan_time": "2025-07-17T06:10:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_754",
+    "scan_id": "scan_1753",
+    "scan_time": "2025-07-18T17:50:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_452",
+    "scan_id": "scan_1451",
+    "scan_time": "2025-07-16T15:30:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_684",
+    "scan_id": "scan_1683",
+    "scan_time": "2025-07-18T06:10:00",
+    "ai_score": 0.81
+  },
+  {
+    "patient_id": "patient_229",
+    "scan_id": "scan_1228",
+    "scan_time": "2025-07-15T02:20:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_131",
+    "scan_id": "scan_1130",
+    "scan_time": "2025-07-14T10:00:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_128",
+    "scan_id": "scan_1127",
+    "scan_time": "2025-07-14T09:30:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_348",
+    "scan_id": "scan_1347",
+    "scan_time": "2025-07-15T22:10:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_99",
+    "scan_id": "scan_1098",
+    "scan_time": "2025-07-14T04:40:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_528",
+    "scan_id": "scan_1527",
+    "scan_time": "2025-07-17T04:10:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_3",
+    "scan_id": "scan_1002",
+    "scan_time": "2025-07-13T12:40:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_122",
+    "scan_id": "scan_1121",
+    "scan_time": "2025-07-14T08:30:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_133",
+    "scan_id": "scan_1132",
+    "scan_time": "2025-07-14T10:20:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_174",
+    "scan_id": "scan_1173",
+    "scan_time": "2025-07-14T17:10:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_161",
+    "scan_id": "scan_1160",
+    "scan_time": "2025-07-14T15:00:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_873",
+    "scan_id": "scan_1872",
+    "scan_time": "2025-07-19T13:40:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_683",
+    "scan_id": "scan_1682",
+    "scan_time": "2025-07-18T06:00:00",
+    "ai_score": 0.87
+  },
+  {
+    "patient_id": "patient_506",
+    "scan_id": "scan_1505",
+    "scan_time": "2025-07-17T00:30:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_231",
+    "scan_id": "scan_1230",
+    "scan_time": "2025-07-15T02:40:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_225",
+    "scan_id": "scan_1224",
+    "scan_time": "2025-07-15T01:40:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_769",
+    "scan_id": "scan_1768",
+    "scan_time": "2025-07-18T20:20:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_426",
+    "scan_id": "scan_1425",
+    "scan_time": "2025-07-16T11:10:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_378",
+    "scan_id": "scan_1377",
+    "scan_time": "2025-07-16T03:10:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_298",
+    "scan_id": "scan_1297",
+    "scan_time": "2025-07-15T13:50:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_587",
+    "scan_id": "scan_1586",
+    "scan_time": "2025-07-17T14:00:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_682",
+    "scan_id": "scan_1681",
+    "scan_time": "2025-07-18T05:50:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_176",
+    "scan_id": "scan_1175",
+    "scan_time": "2025-07-14T17:30:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_996",
+    "scan_id": "scan_1995",
+    "scan_time": "2025-07-20T10:10:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_579",
+    "scan_id": "scan_1578",
+    "scan_time": "2025-07-17T12:40:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_343",
+    "scan_id": "scan_1342",
+    "scan_time": "2025-07-15T21:20:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_908",
+    "scan_id": "scan_1907",
+    "scan_time": "2025-07-19T19:30:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_830",
+    "scan_id": "scan_1829",
+    "scan_time": "2025-07-19T06:30:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_428",
+    "scan_id": "scan_1427",
+    "scan_time": "2025-07-16T11:30:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_372",
+    "scan_id": "scan_1371",
+    "scan_time": "2025-07-16T02:10:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_859",
+    "scan_id": "scan_1858",
+    "scan_time": "2025-07-19T11:20:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_639",
+    "scan_id": "scan_1638",
+    "scan_time": "2025-07-17T22:40:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_134",
+    "scan_id": "scan_1133",
+    "scan_time": "2025-07-14T10:30:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_964",
+    "scan_id": "scan_1963",
+    "scan_time": "2025-07-20T04:50:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_270",
+    "scan_id": "scan_1269",
+    "scan_time": "2025-07-15T09:10:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_492",
+    "scan_id": "scan_1491",
+    "scan_time": "2025-07-16T22:10:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_126",
+    "scan_id": "scan_1125",
+    "scan_time": "2025-07-14T09:10:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_562",
+    "scan_id": "scan_1561",
+    "scan_time": "2025-07-17T09:50:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_709",
+    "scan_id": "scan_1708",
+    "scan_time": "2025-07-18T10:20:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_159",
+    "scan_id": "scan_1158",
+    "scan_time": "2025-07-14T14:40:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_224",
+    "scan_id": "scan_1223",
+    "scan_time": "2025-07-15T01:30:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_346",
+    "scan_id": "scan_1345",
+    "scan_time": "2025-07-15T21:50:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_436",
+    "scan_id": "scan_1435",
+    "scan_time": "2025-07-16T12:50:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_972",
+    "scan_id": "scan_1971",
+    "scan_time": "2025-07-20T06:10:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_222",
+    "scan_id": "scan_1221",
+    "scan_time": "2025-07-15T01:10:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_36",
+    "scan_id": "scan_1035",
+    "scan_time": "2025-07-13T18:10:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_338",
+    "scan_id": "scan_1337",
+    "scan_time": "2025-07-15T20:30:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_532",
+    "scan_id": "scan_1531",
+    "scan_time": "2025-07-17T04:50:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_477",
+    "scan_id": "scan_1476",
+    "scan_time": "2025-07-16T19:40:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_772",
+    "scan_id": "scan_1771",
+    "scan_time": "2025-07-18T20:50:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_16",
+    "scan_id": "scan_1015",
+    "scan_time": "2025-07-13T14:50:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_444",
+    "scan_id": "scan_1443",
+    "scan_time": "2025-07-16T14:10:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_227",
+    "scan_id": "scan_1226",
+    "scan_time": "2025-07-15T02:00:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_466",
+    "scan_id": "scan_1465",
+    "scan_time": "2025-07-16T17:50:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_897",
+    "scan_id": "scan_1896",
+    "scan_time": "2025-07-19T17:40:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_518",
+    "scan_id": "scan_1517",
+    "scan_time": "2025-07-17T02:30:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_446",
+    "scan_id": "scan_1445",
+    "scan_time": "2025-07-16T14:30:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_326",
+    "scan_id": "scan_1325",
+    "scan_time": "2025-07-15T18:30:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_144",
+    "scan_id": "scan_1143",
+    "scan_time": "2025-07-14T12:10:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_988",
+    "scan_id": "scan_1987",
+    "scan_time": "2025-07-20T08:50:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_789",
+    "scan_id": "scan_1788",
+    "scan_time": "2025-07-18T23:40:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_883",
+    "scan_id": "scan_1882",
+    "scan_time": "2025-07-19T15:20:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_406",
+    "scan_id": "scan_1405",
+    "scan_time": "2025-07-16T07:50:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_489",
+    "scan_id": "scan_1488",
+    "scan_time": "2025-07-16T21:40:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_882",
+    "scan_id": "scan_1881",
+    "scan_time": "2025-07-19T15:10:00",
+    "ai_score": 0.83
+  },
+  {
+    "patient_id": "patient_82",
+    "scan_id": "scan_1081",
+    "scan_time": "2025-07-14T01:50:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_539",
+    "scan_id": "scan_1538",
+    "scan_time": "2025-07-17T06:00:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_344",
+    "scan_id": "scan_1343",
+    "scan_time": "2025-07-15T21:30:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_604",
+    "scan_id": "scan_1603",
+    "scan_time": "2025-07-17T16:50:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_236",
+    "scan_id": "scan_1235",
+    "scan_time": "2025-07-15T03:30:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_781",
+    "scan_id": "scan_1780",
+    "scan_time": "2025-07-18T22:20:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_425",
+    "scan_id": "scan_1424",
+    "scan_time": "2025-07-16T11:00:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_157",
+    "scan_id": "scan_1156",
+    "scan_time": "2025-07-14T14:20:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_511",
+    "scan_id": "scan_1510",
+    "scan_time": "2025-07-17T01:20:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_658",
+    "scan_id": "scan_1657",
+    "scan_time": "2025-07-18T01:50:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_20",
+    "scan_id": "scan_1019",
+    "scan_time": "2025-07-13T15:30:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_705",
+    "scan_id": "scan_1704",
+    "scan_time": "2025-07-18T09:40:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_503",
+    "scan_id": "scan_1502",
+    "scan_time": "2025-07-17T00:00:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_833",
+    "scan_id": "scan_1832",
+    "scan_time": "2025-07-19T07:00:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_87",
+    "scan_id": "scan_1086",
+    "scan_time": "2025-07-14T02:40:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_226",
+    "scan_id": "scan_1225",
+    "scan_time": "2025-07-15T01:50:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": "patient_625",
+    "scan_id": "scan_1624",
+    "scan_time": "2025-07-17T20:20:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": "patient_564",
+    "scan_id": "scan_1563",
+    "scan_time": "2025-07-17T10:10:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_96",
+    "scan_id": "scan_1095",
+    "scan_time": "2025-07-14T04:10:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_178",
+    "scan_id": "scan_1177",
+    "scan_time": "2025-07-14T17:50:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_119",
+    "scan_id": "scan_1118",
+    "scan_time": "2025-07-14T08:00:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_419",
+    "scan_id": "scan_1418",
+    "scan_time": "2025-07-16T10:00:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_393",
+    "scan_id": "scan_1392",
+    "scan_time": "2025-07-16T05:40:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_282",
+    "scan_id": "scan_1281",
+    "scan_time": "2025-07-15T11:10:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_840",
+    "scan_id": "scan_1839",
+    "scan_time": "2025-07-19T08:10:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_786",
+    "scan_id": "scan_1785",
+    "scan_time": "2025-07-18T23:10:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_494",
+    "scan_id": "scan_1493",
+    "scan_time": "2025-07-16T22:30:00",
+    "ai_score": 0.12
+  },
+  {
+    "patient_id": "patient_795",
+    "scan_id": "scan_1794",
+    "scan_time": "2025-07-19T00:40:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_630",
+    "scan_id": "scan_1629",
+    "scan_time": "2025-07-17T21:10:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_662",
+    "scan_id": "scan_1661",
+    "scan_time": "2025-07-18T02:30:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_947",
+    "scan_id": "scan_1946",
+    "scan_time": "2025-07-20T02:00:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_595",
+    "scan_id": "scan_1594",
+    "scan_time": "2025-07-17T15:20:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_65",
+    "scan_id": "scan_1064",
+    "scan_time": "2025-07-13T23:00:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_69",
+    "scan_id": "scan_1068",
+    "scan_time": "2025-07-13T23:40:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_898",
+    "scan_id": "scan_1897",
+    "scan_time": "2025-07-19T17:50:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_973",
+    "scan_id": "scan_1972",
+    "scan_time": "2025-07-20T06:20:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_284",
+    "scan_id": "scan_1283",
+    "scan_time": "2025-07-15T11:30:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_629",
+    "scan_id": "scan_1628",
+    "scan_time": "2025-07-17T21:00:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_611",
+    "scan_id": "scan_1610",
+    "scan_time": "2025-07-17T18:00:00",
+    "ai_score": 0.83
+  },
+  {
+    "patient_id": "patient_202",
+    "scan_id": "scan_1201",
+    "scan_time": "2025-07-14T21:50:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_575",
+    "scan_id": "scan_1574",
+    "scan_time": "2025-07-17T12:00:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_660",
+    "scan_id": "scan_1659",
+    "scan_time": "2025-07-18T02:10:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_274",
+    "scan_id": "scan_1273",
+    "scan_time": "2025-07-15T09:50:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_991",
+    "scan_id": "scan_1990",
+    "scan_time": "2025-07-20T09:20:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_407",
+    "scan_id": "scan_1406",
+    "scan_time": "2025-07-16T08:00:00",
+    "ai_score": 1.0
+  },
+  {
+    "patient_id": "patient_32",
+    "scan_id": "scan_1031",
+    "scan_time": "2025-07-13T17:30:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_583",
+    "scan_id": "scan_1582",
+    "scan_time": "2025-07-17T13:20:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_331",
+    "scan_id": "scan_1330",
+    "scan_time": "2025-07-15T19:20:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_471",
+    "scan_id": "scan_1470",
+    "scan_time": "2025-07-16T18:40:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_421",
+    "scan_id": "scan_1420",
+    "scan_time": "2025-07-16T10:20:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_465",
+    "scan_id": "scan_1464",
+    "scan_time": "2025-07-16T17:40:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_91",
+    "scan_id": "scan_1090",
+    "scan_time": "2025-07-14T03:20:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_186",
+    "scan_id": "scan_1185",
+    "scan_time": "2025-07-14T19:10:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_285",
+    "scan_id": "scan_1284",
+    "scan_time": "2025-07-15T11:40:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_497",
+    "scan_id": "scan_1496",
+    "scan_time": "2025-07-16T23:00:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_881",
+    "scan_id": "scan_1880",
+    "scan_time": "2025-07-19T15:00:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_22",
+    "scan_id": "scan_1021",
+    "scan_time": "2025-07-13T15:50:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_151",
+    "scan_id": "scan_1150",
+    "scan_time": "2025-07-14T13:20:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_251",
+    "scan_id": "scan_1250",
+    "scan_time": "2025-07-15T06:00:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_370",
+    "scan_id": "scan_1369",
+    "scan_time": "2025-07-16T01:50:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_381",
+    "scan_id": "scan_1380",
+    "scan_time": "2025-07-16T03:40:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_766",
+    "scan_id": "scan_1765",
+    "scan_time": "2025-07-18T19:50:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_408",
+    "scan_id": "scan_1407",
+    "scan_time": "2025-07-16T08:10:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_690",
+    "scan_id": "scan_1689",
+    "scan_time": "2025-07-18T07:10:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_608",
+    "scan_id": "scan_1607",
+    "scan_time": "2025-07-17T17:30:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_296",
+    "scan_id": "scan_1295",
+    "scan_time": "2025-07-15T13:30:00",
+    "ai_score": 0.12
+  },
+  {
+    "patient_id": "patient_994",
+    "scan_id": "scan_1993",
+    "scan_time": "2025-07-20T09:50:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_218",
+    "scan_id": "scan_1217",
+    "scan_time": "2025-07-15T00:30:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_750",
+    "scan_id": "scan_1749",
+    "scan_time": "2025-07-18T17:10:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_71",
+    "scan_id": "scan_1070",
+    "scan_time": "2025-07-14T00:00:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_272",
+    "scan_id": "scan_1271",
+    "scan_time": "2025-07-15T09:30:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_877",
+    "scan_id": "scan_1876",
+    "scan_time": "2025-07-19T14:20:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_328",
+    "scan_id": "scan_1327",
+    "scan_time": "2025-07-15T18:50:00",
+    "ai_score": 0.83
+  },
+  {
+    "patient_id": "patient_54",
+    "scan_id": "scan_1053",
+    "scan_time": "2025-07-13T21:10:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_362",
+    "scan_id": "scan_1361",
+    "scan_time": "2025-07-16T00:30:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_72",
+    "scan_id": "scan_1071",
+    "scan_time": "2025-07-14T00:10:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_654",
+    "scan_id": "scan_1653",
+    "scan_time": "2025-07-18T01:10:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_603",
+    "scan_id": "scan_1602",
+    "scan_time": "2025-07-17T16:40:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_396",
+    "scan_id": "scan_1395",
+    "scan_time": "2025-07-16T06:10:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_498",
+    "scan_id": "scan_1497",
+    "scan_time": "2025-07-16T23:10:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_613",
+    "scan_id": "scan_1612",
+    "scan_time": "2025-07-17T18:20:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_158",
+    "scan_id": "scan_1157",
+    "scan_time": "2025-07-14T14:30:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_475",
+    "scan_id": "scan_1474",
+    "scan_time": "2025-07-16T19:20:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_633",
+    "scan_id": "scan_1632",
+    "scan_time": "2025-07-17T21:40:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_888",
+    "scan_id": "scan_1887",
+    "scan_time": "2025-07-19T16:10:00",
+    "ai_score": 0.59
+  },
+  {
+    "patient_id": "patient_834",
+    "scan_id": "scan_1833",
+    "scan_time": "2025-07-19T07:10:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_315",
+    "scan_id": "scan_1314",
+    "scan_time": "2025-07-15T16:40:00",
+    "ai_score": 0.59
+  },
+  {
+    "patient_id": "patient_77",
+    "scan_id": "scan_1076",
+    "scan_time": "2025-07-14T01:00:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_874",
+    "scan_id": "scan_1873",
+    "scan_time": "2025-07-19T13:50:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_62",
+    "scan_id": "scan_1061",
+    "scan_time": "2025-07-13T22:30:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_213",
+    "scan_id": "scan_1212",
+    "scan_time": "2025-07-14T23:40:00",
+    "ai_score": 0.83
+  },
+  {
+    "patient_id": "patient_68",
+    "scan_id": "scan_1067",
+    "scan_time": "2025-07-13T23:30:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_247",
+    "scan_id": "scan_1246",
+    "scan_time": "2025-07-15T05:20:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_high_score",
+    "scan_id": "scan_high_score",
+    "scan_time": "2025-07-20T10:30:00",
+    "ai_score": 1.79
+  },
+  {
+    "patient_id": "patient_710",
+    "scan_id": "scan_1709",
+    "scan_time": "2025-07-18T10:30:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_79",
+    "scan_id": "scan_1078",
+    "scan_time": "2025-07-14T01:20:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_30",
+    "scan_id": "scan_1029",
+    "scan_time": "2025-07-13T17:10:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_468",
+    "scan_id": "scan_1467",
+    "scan_time": "2025-07-16T18:10:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_758",
+    "scan_id": "scan_1757",
+    "scan_time": "2025-07-18T18:30:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_397",
+    "scan_id": "scan_1396",
+    "scan_time": "2025-07-16T06:20:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_114",
+    "scan_id": "scan_1113",
+    "scan_time": "2025-07-14T07:10:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_112",
+    "scan_id": "scan_1111",
+    "scan_time": "2025-07-14T06:50:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_499",
+    "scan_id": "scan_1498",
+    "scan_time": "2025-07-16T23:20:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_38",
+    "scan_id": "scan_1037",
+    "scan_time": "2025-07-13T18:30:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_599",
+    "scan_id": "scan_1598",
+    "scan_time": "2025-07-17T16:00:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_460",
+    "scan_id": "scan_1459",
+    "scan_time": "2025-07-16T16:50:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_895",
+    "scan_id": "scan_1894",
+    "scan_time": "2025-07-19T17:20:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_748",
+    "scan_id": "scan_1747",
+    "scan_time": "2025-07-18T16:50:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_842",
+    "scan_id": "scan_1841",
+    "scan_time": "2025-07-19T08:30:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_887",
+    "scan_id": "scan_1886",
+    "scan_time": "2025-07-19T16:00:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_731",
+    "scan_id": "scan_1730",
+    "scan_time": "2025-07-18T14:00:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_127",
+    "scan_id": "scan_1126",
+    "scan_time": "2025-07-14T09:20:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_431",
+    "scan_id": "scan_1430",
+    "scan_time": "2025-07-16T12:00:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_342",
+    "scan_id": "scan_1341",
+    "scan_time": "2025-07-15T21:10:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_33",
+    "scan_id": "scan_1032",
+    "scan_time": "2025-07-13T17:40:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_496",
+    "scan_id": "scan_1495",
+    "scan_time": "2025-07-16T22:50:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_165",
+    "scan_id": "scan_1164",
+    "scan_time": "2025-07-14T15:40:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_383",
+    "scan_id": "scan_1382",
+    "scan_time": "2025-07-16T04:00:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_806",
+    "scan_id": "scan_1805",
+    "scan_time": "2025-07-19T02:30:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_135",
+    "scan_id": "scan_1134",
+    "scan_time": "2025-07-14T10:40:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_246",
+    "scan_id": "scan_1245",
+    "scan_time": "2025-07-15T05:10:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_5",
+    "scan_id": "scan_1004",
+    "scan_time": "2025-07-13T13:00:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_432",
+    "scan_id": "scan_1431",
+    "scan_time": "2025-07-16T12:10:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_592",
+    "scan_id": "scan_1591",
+    "scan_time": "2025-07-17T14:50:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": "patient_470",
+    "scan_id": "scan_1469",
+    "scan_time": "2025-07-16T18:30:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_520",
+    "scan_id": "scan_1519",
+    "scan_time": "2025-07-17T02:50:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_557",
+    "scan_id": "scan_1556",
+    "scan_time": "2025-07-17T09:00:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_574",
+    "scan_id": "scan_1573",
+    "scan_time": "2025-07-17T11:50:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_560",
+    "scan_id": "scan_1559",
+    "scan_time": "2025-07-17T09:30:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_553",
+    "scan_id": "scan_1552",
+    "scan_time": "2025-07-17T08:20:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_196",
+    "scan_id": "scan_1195",
+    "scan_time": "2025-07-14T20:50:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_665",
+    "scan_id": "scan_1664",
+    "scan_time": "2025-07-18T03:00:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_435",
+    "scan_id": "scan_1434",
+    "scan_time": "2025-07-16T12:40:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_404",
+    "scan_id": "scan_1403",
+    "scan_time": "2025-07-16T07:30:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_434",
+    "scan_id": "scan_1433",
+    "scan_time": "2025-07-16T12:30:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_621",
+    "scan_id": "scan_1620",
+    "scan_time": "2025-07-17T19:40:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_74",
+    "scan_id": "scan_1073",
+    "scan_time": "2025-07-14T00:30:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_821",
+    "scan_id": "scan_1820",
+    "scan_time": "2025-07-19T05:00:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_164",
+    "scan_id": "scan_1163",
+    "scan_time": "2025-07-14T15:30:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_34",
+    "scan_id": "scan_1033",
+    "scan_time": "2025-07-13T17:50:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_399",
+    "scan_id": "scan_1398",
+    "scan_time": "2025-07-16T06:40:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_25",
+    "scan_id": "scan_1024",
+    "scan_time": "2025-07-13T16:20:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_420",
+    "scan_id": "scan_1419",
+    "scan_time": "2025-07-16T10:10:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_301",
+    "scan_id": "scan_1300",
+    "scan_time": "2025-07-15T14:20:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_880",
+    "scan_id": "scan_1879",
+    "scan_time": "2025-07-19T14:50:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_86",
+    "scan_id": "scan_1085",
+    "scan_time": "2025-07-14T02:30:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_566",
+    "scan_id": "scan_1565",
+    "scan_time": "2025-07-17T10:30:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_198",
+    "scan_id": "scan_1197",
+    "scan_time": "2025-07-14T21:10:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_191",
+    "scan_id": "scan_1190",
+    "scan_time": "2025-07-14T20:00:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_778",
+    "scan_id": "scan_1777",
+    "scan_time": "2025-07-18T21:50:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_365",
+    "scan_id": "scan_1364",
+    "scan_time": "2025-07-16T01:00:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_889",
+    "scan_id": "scan_1888",
+    "scan_time": "2025-07-19T16:20:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_238",
+    "scan_id": "scan_1237",
+    "scan_time": "2025-07-15T03:50:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_582",
+    "scan_id": "scan_1581",
+    "scan_time": "2025-07-17T13:10:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_561",
+    "scan_id": "scan_1560",
+    "scan_time": "2025-07-17T09:40:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_323",
+    "scan_id": "scan_1322",
+    "scan_time": "2025-07-15T18:00:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_357",
+    "scan_id": "scan_1356",
+    "scan_time": "2025-07-15T23:40:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_101",
+    "scan_id": "scan_1100",
+    "scan_time": "2025-07-14T05:00:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_217",
+    "scan_id": "scan_1216",
+    "scan_time": "2025-07-15T00:20:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_93",
+    "scan_id": "scan_1092",
+    "scan_time": "2025-07-14T03:40:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_767",
+    "scan_id": "scan_1766",
+    "scan_time": "2025-07-18T20:00:00",
+    "ai_score": 0.71
+  },
+  {
+    "patient_id": "patient_339",
+    "scan_id": "scan_1338",
+    "scan_time": "2025-07-15T20:40:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_963",
+    "scan_id": "scan_1962",
+    "scan_time": "2025-07-20T04:40:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_578",
+    "scan_id": "scan_1577",
+    "scan_time": "2025-07-17T12:30:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_720",
+    "scan_id": "scan_1719",
+    "scan_time": "2025-07-18T12:10:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_875",
+    "scan_id": "scan_1874",
+    "scan_time": "2025-07-19T14:00:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_612",
+    "scan_id": "scan_1611",
+    "scan_time": "2025-07-17T18:10:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_414",
+    "scan_id": "scan_1413",
+    "scan_time": "2025-07-16T09:10:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_47",
+    "scan_id": "scan_1046",
+    "scan_time": "2025-07-13T20:00:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_50",
+    "scan_id": "scan_1049",
+    "scan_time": "2025-07-13T20:30:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_453",
+    "scan_id": "scan_1452",
+    "scan_time": "2025-07-16T15:40:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_253",
+    "scan_id": "scan_1252",
+    "scan_time": "2025-07-15T06:20:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_796",
+    "scan_id": "scan_1795",
+    "scan_time": "2025-07-19T00:50:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_649",
+    "scan_id": "scan_1648",
+    "scan_time": "2025-07-18T00:20:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_27",
+    "scan_id": "scan_1026",
+    "scan_time": "2025-07-13T16:40:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_637",
+    "scan_id": "scan_1636",
+    "scan_time": "2025-07-17T22:20:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_14",
+    "scan_id": "scan_1013",
+    "scan_time": "2025-07-13T14:30:00",
+    "ai_score": 0.8
+  },
+  {
+    "patient_id": "patient_570",
+    "scan_id": "scan_1569",
+    "scan_time": "2025-07-17T11:10:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_26",
+    "scan_id": "scan_1025",
+    "scan_time": "2025-07-13T16:30:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_688",
+    "scan_id": "scan_1687",
+    "scan_time": "2025-07-18T06:50:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_194",
+    "scan_id": "scan_1193",
+    "scan_time": "2025-07-14T20:30:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_268",
+    "scan_id": "scan_1267",
+    "scan_time": "2025-07-15T08:50:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_445",
+    "scan_id": "scan_1444",
+    "scan_time": "2025-07-16T14:20:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_537",
+    "scan_id": "scan_1536",
+    "scan_time": "2025-07-17T05:40:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_375",
+    "scan_id": "scan_1374",
+    "scan_time": "2025-07-16T02:40:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_269",
+    "scan_id": "scan_1268",
+    "scan_time": "2025-07-15T09:00:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_965",
+    "scan_id": "scan_1964",
+    "scan_time": "2025-07-20T05:00:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_635",
+    "scan_id": "scan_1634",
+    "scan_time": "2025-07-17T22:00:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_291",
+    "scan_id": "scan_1290",
+    "scan_time": "2025-07-15T12:40:00",
+    "ai_score": 0.8
+  },
+  {
+    "patient_id": "patient_644",
+    "scan_id": "scan_1643",
+    "scan_time": "2025-07-17T23:30:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_743",
+    "scan_id": "scan_1742",
+    "scan_time": "2025-07-18T16:00:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_930",
+    "scan_id": "scan_1929",
+    "scan_time": "2025-07-19T23:10:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_211",
+    "scan_id": "scan_1210",
+    "scan_time": "2025-07-14T23:20:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_858",
+    "scan_id": "scan_1857",
+    "scan_time": "2025-07-19T11:10:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_549",
+    "scan_id": "scan_1548",
+    "scan_time": "2025-07-17T07:40:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_907",
+    "scan_id": "scan_1906",
+    "scan_time": "2025-07-19T19:20:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_949",
+    "scan_id": "scan_1948",
+    "scan_time": "2025-07-20T02:20:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_916",
+    "scan_id": "scan_1915",
+    "scan_time": "2025-07-19T20:50:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_517",
+    "scan_id": "scan_1516",
+    "scan_time": "2025-07-17T02:20:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_857",
+    "scan_id": "scan_1856",
+    "scan_time": "2025-07-19T11:00:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_636",
+    "scan_id": "scan_1635",
+    "scan_time": "2025-07-17T22:10:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_508",
+    "scan_id": "scan_1507",
+    "scan_time": "2025-07-17T00:50:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_628",
+    "scan_id": "scan_1627",
+    "scan_time": "2025-07-17T20:50:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_146",
+    "scan_id": "scan_1145",
+    "scan_time": "2025-07-14T12:30:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_642",
+    "scan_id": "scan_1641",
+    "scan_time": "2025-07-17T23:10:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_75",
+    "scan_id": "scan_1074",
+    "scan_time": "2025-07-14T00:40:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_846",
+    "scan_id": "scan_1845",
+    "scan_time": "2025-07-19T09:10:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_141",
+    "scan_id": "scan_1140",
+    "scan_time": "2025-07-14T11:40:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_785",
+    "scan_id": "scan_1784",
+    "scan_time": "2025-07-18T23:00:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_320",
+    "scan_id": "scan_1319",
+    "scan_time": "2025-07-15T17:30:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_391",
+    "scan_id": "scan_1390",
+    "scan_time": "2025-07-16T05:20:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_319",
+    "scan_id": "scan_1318",
+    "scan_time": "2025-07-15T17:20:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_865",
+    "scan_id": "scan_1864",
+    "scan_time": "2025-07-19T12:20:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_281",
+    "scan_id": "scan_1280",
+    "scan_time": "2025-07-15T11:00:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_303",
+    "scan_id": "scan_1302",
+    "scan_time": "2025-07-15T14:40:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_697",
+    "scan_id": "scan_1696",
+    "scan_time": "2025-07-18T08:20:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_221",
+    "scan_id": "scan_1220",
+    "scan_time": "2025-07-15T01:00:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_960",
+    "scan_id": "scan_1959",
+    "scan_time": "2025-07-20T04:10:00",
+    "ai_score": 0.59
+  },
+  {
+    "patient_id": "patient_845",
+    "scan_id": "scan_1844",
+    "scan_time": "2025-07-19T09:00:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_740",
+    "scan_id": "scan_1739",
+    "scan_time": "2025-07-18T15:30:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_569",
+    "scan_id": "scan_1568",
+    "scan_time": "2025-07-17T11:00:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_481",
+    "scan_id": "scan_1480",
+    "scan_time": "2025-07-16T20:20:00",
+    "ai_score": 0.99
+  },
+  {
+    "patient_id": "patient_170",
+    "scan_id": "scan_1169",
+    "scan_time": "2025-07-14T16:30:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_876",
+    "scan_id": "scan_1875",
+    "scan_time": "2025-07-19T14:10:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_925",
+    "scan_id": "scan_1924",
+    "scan_time": "2025-07-19T22:20:00",
+    "ai_score": 0.83
+  },
+  {
+    "patient_id": "patient_459",
+    "scan_id": "scan_1458",
+    "scan_time": "2025-07-16T16:40:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_585",
+    "scan_id": "scan_1584",
+    "scan_time": "2025-07-17T13:40:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_598",
+    "scan_id": "scan_1597",
+    "scan_time": "2025-07-17T15:50:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_838",
+    "scan_id": "scan_1837",
+    "scan_time": "2025-07-19T07:50:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_358",
+    "scan_id": "scan_1357",
+    "scan_time": "2025-07-15T23:50:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_926",
+    "scan_id": "scan_1925",
+    "scan_time": "2025-07-19T22:30:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_212",
+    "scan_id": "scan_1211",
+    "scan_time": "2025-07-14T23:30:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_261",
+    "scan_id": "scan_1260",
+    "scan_time": "2025-07-15T07:40:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_332",
+    "scan_id": "scan_1331",
+    "scan_time": "2025-07-15T19:30:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_450",
+    "scan_id": "scan_1449",
+    "scan_time": "2025-07-16T15:10:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_979",
+    "scan_id": "scan_1978",
+    "scan_time": "2025-07-20T07:20:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_302",
+    "scan_id": "scan_1301",
+    "scan_time": "2025-07-15T14:30:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_70",
+    "scan_id": "scan_1069",
+    "scan_time": "2025-07-13T23:50:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_980",
+    "scan_id": "scan_1979",
+    "scan_time": "2025-07-20T07:30:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_559",
+    "scan_id": "scan_1558",
+    "scan_time": "2025-07-17T09:20:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_329",
+    "scan_id": "scan_1328",
+    "scan_time": "2025-07-15T19:00:00",
+    "ai_score": 0.82
+  },
+  {
+    "patient_id": "patient_835",
+    "scan_id": "scan_1834",
+    "scan_time": "2025-07-19T07:20:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_729",
+    "scan_id": "scan_1728",
+    "scan_time": "2025-07-18T13:40:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_652",
+    "scan_id": "scan_1651",
+    "scan_time": "2025-07-18T00:50:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_515",
+    "scan_id": "scan_1514",
+    "scan_time": "2025-07-17T02:00:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_966",
+    "scan_id": "scan_1965",
+    "scan_time": "2025-07-20T05:10:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_107",
+    "scan_id": "scan_1106",
+    "scan_time": "2025-07-14T06:00:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_653",
+    "scan_id": "scan_1652",
+    "scan_time": "2025-07-18T01:00:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_617",
+    "scan_id": "scan_1616",
+    "scan_time": "2025-07-17T19:00:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_485",
+    "scan_id": "scan_1484",
+    "scan_time": "2025-07-16T21:00:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_287",
+    "scan_id": "scan_1286",
+    "scan_time": "2025-07-15T12:00:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_241",
+    "scan_id": "scan_1240",
+    "scan_time": "2025-07-15T04:20:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_572",
+    "scan_id": "scan_1571",
+    "scan_time": "2025-07-17T11:30:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_73",
+    "scan_id": "scan_1072",
+    "scan_time": "2025-07-14T00:20:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_634",
+    "scan_id": "scan_1633",
+    "scan_time": "2025-07-17T21:50:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_110",
+    "scan_id": "scan_1109",
+    "scan_time": "2025-07-14T06:30:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_917",
+    "scan_id": "scan_1916",
+    "scan_time": "2025-07-19T21:00:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_189",
+    "scan_id": "scan_1188",
+    "scan_time": "2025-07-14T19:40:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_102",
+    "scan_id": "scan_1101",
+    "scan_time": "2025-07-14T05:10:00",
+    "ai_score": 0.37
+  },
+  {
+    "patient_id": "patient_265",
+    "scan_id": "scan_1264",
+    "scan_time": "2025-07-15T08:20:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_726",
+    "scan_id": "scan_1725",
+    "scan_time": "2025-07-18T13:10:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_172",
+    "scan_id": "scan_1171",
+    "scan_time": "2025-07-14T16:50:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_199",
+    "scan_id": "scan_1198",
+    "scan_time": "2025-07-14T21:20:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_782",
+    "scan_id": "scan_1781",
+    "scan_time": "2025-07-18T22:30:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_669",
+    "scan_id": "scan_1668",
+    "scan_time": "2025-07-18T03:40:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_885",
+    "scan_id": "scan_1884",
+    "scan_time": "2025-07-19T15:40:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_377",
+    "scan_id": "scan_1376",
+    "scan_time": "2025-07-16T03:00:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_711",
+    "scan_id": "scan_1710",
+    "scan_time": "2025-07-18T10:40:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_374",
+    "scan_id": "scan_1373",
+    "scan_time": "2025-07-16T02:30:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_29",
+    "scan_id": "scan_1028",
+    "scan_time": "2025-07-13T17:00:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_954",
+    "scan_id": "scan_1953",
+    "scan_time": "2025-07-20T03:10:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_616",
+    "scan_id": "scan_1615",
+    "scan_time": "2025-07-17T18:50:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_447",
+    "scan_id": "scan_1446",
+    "scan_time": "2025-07-16T14:40:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_321",
+    "scan_id": "scan_1320",
+    "scan_time": "2025-07-15T17:40:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_491",
+    "scan_id": "scan_1490",
+    "scan_time": "2025-07-16T22:00:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_776",
+    "scan_id": "scan_1775",
+    "scan_time": "2025-07-18T21:30:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_454",
+    "scan_id": "scan_1453",
+    "scan_time": "2025-07-16T15:50:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_922",
+    "scan_id": "scan_1921",
+    "scan_time": "2025-07-19T21:50:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_836",
+    "scan_id": "scan_1835",
+    "scan_time": "2025-07-19T07:30:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_486",
+    "scan_id": "scan_1485",
+    "scan_time": "2025-07-16T21:10:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_483",
+    "scan_id": "scan_1482",
+    "scan_time": "2025-07-16T20:40:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_469",
+    "scan_id": "scan_1468",
+    "scan_time": "2025-07-16T18:20:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_98",
+    "scan_id": "scan_1097",
+    "scan_time": "2025-07-14T04:30:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_788",
+    "scan_id": "scan_1787",
+    "scan_time": "2025-07-18T23:30:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_130",
+    "scan_id": "scan_1129",
+    "scan_time": "2025-07-14T09:50:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_190",
+    "scan_id": "scan_1189",
+    "scan_time": "2025-07-14T19:50:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_335",
+    "scan_id": "scan_1334",
+    "scan_time": "2025-07-15T20:00:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_956",
+    "scan_id": "scan_1955",
+    "scan_time": "2025-07-20T03:30:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_143",
+    "scan_id": "scan_1142",
+    "scan_time": "2025-07-14T12:00:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_12",
+    "scan_id": "scan_1011",
+    "scan_time": "2025-07-13T14:10:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_615",
+    "scan_id": "scan_1614",
+    "scan_time": "2025-07-17T18:40:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_417",
+    "scan_id": "scan_1416",
+    "scan_time": "2025-07-16T09:40:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_438",
+    "scan_id": "scan_1437",
+    "scan_time": "2025-07-16T13:10:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_340",
+    "scan_id": "scan_1339",
+    "scan_time": "2025-07-15T20:50:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_333",
+    "scan_id": "scan_1332",
+    "scan_time": "2025-07-15T19:40:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_366",
+    "scan_id": "scan_1365",
+    "scan_time": "2025-07-16T01:10:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_893",
+    "scan_id": "scan_1892",
+    "scan_time": "2025-07-19T17:00:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_866",
+    "scan_id": "scan_1865",
+    "scan_time": "2025-07-19T12:30:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_936",
+    "scan_id": "scan_1935",
+    "scan_time": "2025-07-20T00:10:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_869",
+    "scan_id": "scan_1868",
+    "scan_time": "2025-07-19T13:00:00",
+    "ai_score": 0.6
+  },
+  {
+    "patient_id": "patient_480",
+    "scan_id": "scan_1479",
+    "scan_time": "2025-07-16T20:10:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_115",
+    "scan_id": "scan_1114",
+    "scan_time": "2025-07-14T07:20:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_125",
+    "scan_id": "scan_1124",
+    "scan_time": "2025-07-14T09:00:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_240",
+    "scan_id": "scan_1239",
+    "scan_time": "2025-07-15T04:10:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_252",
+    "scan_id": "scan_1251",
+    "scan_time": "2025-07-15T06:10:00",
+    "ai_score": 0.87
+  },
+  {
+    "patient_id": "patient_741",
+    "scan_id": "scan_1740",
+    "scan_time": "2025-07-18T15:40:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_545",
+    "scan_id": "scan_1544",
+    "scan_time": "2025-07-17T07:00:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_687",
+    "scan_id": "scan_1686",
+    "scan_time": "2025-07-18T06:40:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_962",
+    "scan_id": "scan_1961",
+    "scan_time": "2025-07-20T04:30:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_306",
+    "scan_id": "scan_1305",
+    "scan_time": "2025-07-15T15:10:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_791",
+    "scan_id": "scan_1790",
+    "scan_time": "2025-07-19T00:00:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_529",
+    "scan_id": "scan_1528",
+    "scan_time": "2025-07-17T04:20:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_273",
+    "scan_id": "scan_1272",
+    "scan_time": "2025-07-15T09:40:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_863",
+    "scan_id": "scan_1862",
+    "scan_time": "2025-07-19T12:00:00",
+    "ai_score": 0.93
+  },
+  {
+    "patient_id": "patient_736",
+    "scan_id": "scan_1735",
+    "scan_time": "2025-07-18T14:50:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_228",
+    "scan_id": "scan_1227",
+    "scan_time": "2025-07-15T02:10:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_676",
+    "scan_id": "scan_1675",
+    "scan_time": "2025-07-18T04:50:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_733",
+    "scan_id": "scan_1732",
+    "scan_time": "2025-07-18T14:20:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_827",
+    "scan_id": "scan_1826",
+    "scan_time": "2025-07-19T06:00:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_387",
+    "scan_id": "scan_1386",
+    "scan_time": "2025-07-16T04:40:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_990",
+    "scan_id": "scan_1989",
+    "scan_time": "2025-07-20T09:10:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_401",
+    "scan_id": "scan_1400",
+    "scan_time": "2025-07-16T07:00:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_727",
+    "scan_id": "scan_1726",
+    "scan_time": "2025-07-18T13:20:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_870",
+    "scan_id": "scan_1869",
+    "scan_time": "2025-07-19T13:10:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_868",
+    "scan_id": "scan_1867",
+    "scan_time": "2025-07-19T12:50:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_700",
+    "scan_id": "scan_1699",
+    "scan_time": "2025-07-18T08:50:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_154",
+    "scan_id": "scan_1153",
+    "scan_time": "2025-07-14T13:50:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_771",
+    "scan_id": "scan_1770",
+    "scan_time": "2025-07-18T20:40:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_277",
+    "scan_id": "scan_1276",
+    "scan_time": "2025-07-15T10:20:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_4",
+    "scan_id": "scan_1003",
+    "scan_time": "2025-07-13T12:50:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_945",
+    "scan_id": "scan_1944",
+    "scan_time": "2025-07-20T01:40:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_674",
+    "scan_id": "scan_1673",
+    "scan_time": "2025-07-18T04:30:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_148",
+    "scan_id": "scan_1147",
+    "scan_time": "2025-07-14T12:50:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_656",
+    "scan_id": "scan_1655",
+    "scan_time": "2025-07-18T01:30:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_773",
+    "scan_id": "scan_1772",
+    "scan_time": "2025-07-18T21:00:00",
+    "ai_score": 0.87
+  },
+  {
+    "patient_id": "patient_334",
+    "scan_id": "scan_1333",
+    "scan_time": "2025-07-15T19:50:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_703",
+    "scan_id": "scan_1702",
+    "scan_time": "2025-07-18T09:20:00",
+    "ai_score": 0.56
+  },
+  {
+    "patient_id": "patient_361",
+    "scan_id": "scan_1360",
+    "scan_time": "2025-07-16T00:20:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_200",
+    "scan_id": "scan_1199",
+    "scan_time": "2025-07-14T21:30:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_439",
+    "scan_id": "scan_1438",
+    "scan_time": "2025-07-16T13:20:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_675",
+    "scan_id": "scan_1674",
+    "scan_time": "2025-07-18T04:40:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_723",
+    "scan_id": "scan_1722",
+    "scan_time": "2025-07-18T12:40:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_542",
+    "scan_id": "scan_1541",
+    "scan_time": "2025-07-17T06:30:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_437",
+    "scan_id": "scan_1436",
+    "scan_time": "2025-07-16T13:00:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_777",
+    "scan_id": "scan_1776",
+    "scan_time": "2025-07-18T21:40:00",
+    "ai_score": 0.66
+  },
+  {
+    "patient_id": "patient_354",
+    "scan_id": "scan_1353",
+    "scan_time": "2025-07-15T23:10:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_384",
+    "scan_id": "scan_1383",
+    "scan_time": "2025-07-16T04:10:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_730",
+    "scan_id": "scan_1729",
+    "scan_time": "2025-07-18T13:50:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_602",
+    "scan_id": "scan_1601",
+    "scan_time": "2025-07-17T16:30:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_279",
+    "scan_id": "scan_1278",
+    "scan_time": "2025-07-15T10:40:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_182",
+    "scan_id": "scan_1181",
+    "scan_time": "2025-07-14T18:30:00",
+    "ai_score": 0.21
+  },
+  {
+    "patient_id": "patient_304",
+    "scan_id": "scan_1303",
+    "scan_time": "2025-07-15T14:50:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_805",
+    "scan_id": "scan_1804",
+    "scan_time": "2025-07-19T02:20:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_258",
+    "scan_id": "scan_1257",
+    "scan_time": "2025-07-15T07:10:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_353",
+    "scan_id": "scan_1352",
+    "scan_time": "2025-07-15T23:00:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_850",
+    "scan_id": "scan_1849",
+    "scan_time": "2025-07-19T09:50:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_987",
+    "scan_id": "scan_1986",
+    "scan_time": "2025-07-20T08:40:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_759",
+    "scan_id": "scan_1758",
+    "scan_time": "2025-07-18T18:40:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_522",
+    "scan_id": "scan_1521",
+    "scan_time": "2025-07-17T03:10:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_242",
+    "scan_id": "scan_1241",
+    "scan_time": "2025-07-15T04:30:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_614",
+    "scan_id": "scan_1613",
+    "scan_time": "2025-07-17T18:30:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_744",
+    "scan_id": "scan_1743",
+    "scan_time": "2025-07-18T16:10:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_233",
+    "scan_id": "scan_1232",
+    "scan_time": "2025-07-15T03:00:00",
+    "ai_score": 0.59
+  },
+  {
+    "patient_id": "patient_867",
+    "scan_id": "scan_1866",
+    "scan_time": "2025-07-19T12:40:00",
+    "ai_score": 0.47
+  },
+  {
+    "patient_id": "patient_139",
+    "scan_id": "scan_1138",
+    "scan_time": "2025-07-14T11:20:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_823",
+    "scan_id": "scan_1822",
+    "scan_time": "2025-07-19T05:20:00",
+    "ai_score": 0.36
+  },
+  {
+    "patient_id": "patient_728",
+    "scan_id": "scan_1727",
+    "scan_time": "2025-07-18T13:30:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_368",
+    "scan_id": "scan_1367",
+    "scan_time": "2025-07-16T01:30:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_423",
+    "scan_id": "scan_1422",
+    "scan_time": "2025-07-16T10:40:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_519",
+    "scan_id": "scan_1518",
+    "scan_time": "2025-07-17T02:40:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_61",
+    "scan_id": "scan_1060",
+    "scan_time": "2025-07-13T22:20:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_829",
+    "scan_id": "scan_1828",
+    "scan_time": "2025-07-19T06:20:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_193",
+    "scan_id": "scan_1192",
+    "scan_time": "2025-07-14T20:20:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_402",
+    "scan_id": "scan_1401",
+    "scan_time": "2025-07-16T07:10:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_884",
+    "scan_id": "scan_1883",
+    "scan_time": "2025-07-19T15:30:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_183",
+    "scan_id": "scan_1182",
+    "scan_time": "2025-07-14T18:40:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_779",
+    "scan_id": "scan_1778",
+    "scan_time": "2025-07-18T22:00:00",
+    "ai_score": 0.68
+  },
+  {
+    "patient_id": "patient_42",
+    "scan_id": "scan_1041",
+    "scan_time": "2025-07-13T19:10:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_204",
+    "scan_id": "scan_1203",
+    "scan_time": "2025-07-14T22:10:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_364",
+    "scan_id": "scan_1363",
+    "scan_time": "2025-07-16T00:50:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_977",
+    "scan_id": "scan_1976",
+    "scan_time": "2025-07-20T07:00:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_886",
+    "scan_id": "scan_1885",
+    "scan_time": "2025-07-19T15:50:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_918",
+    "scan_id": "scan_1917",
+    "scan_time": "2025-07-19T21:10:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_825",
+    "scan_id": "scan_1824",
+    "scan_time": "2025-07-19T05:40:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_593",
+    "scan_id": "scan_1592",
+    "scan_time": "2025-07-17T15:00:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_739",
+    "scan_id": "scan_1738",
+    "scan_time": "2025-07-18T15:20:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_97",
+    "scan_id": "scan_1096",
+    "scan_time": "2025-07-14T04:20:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_927",
+    "scan_id": "scan_1926",
+    "scan_time": "2025-07-19T22:40:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_993",
+    "scan_id": "scan_1992",
+    "scan_time": "2025-07-20T09:40:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_456",
+    "scan_id": "scan_1455",
+    "scan_time": "2025-07-16T16:10:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_313",
+    "scan_id": "scan_1312",
+    "scan_time": "2025-07-15T16:20:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_350",
+    "scan_id": "scan_1349",
+    "scan_time": "2025-07-15T22:30:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_8",
+    "scan_id": "scan_1007",
+    "scan_time": "2025-07-13T13:30:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_90",
+    "scan_id": "scan_1089",
+    "scan_time": "2025-07-14T03:10:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_66",
+    "scan_id": "scan_1065",
+    "scan_time": "2025-07-13T23:10:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_173",
+    "scan_id": "scan_1172",
+    "scan_time": "2025-07-14T17:00:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_912",
+    "scan_id": "scan_1911",
+    "scan_time": "2025-07-19T20:10:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_207",
+    "scan_id": "scan_1206",
+    "scan_time": "2025-07-14T22:40:00",
+    "ai_score": 0.45
+  },
+  {
+    "patient_id": "patient_976",
+    "scan_id": "scan_1975",
+    "scan_time": "2025-07-20T06:50:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_64",
+    "scan_id": "scan_1063",
+    "scan_time": "2025-07-13T22:50:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_105",
+    "scan_id": "scan_1104",
+    "scan_time": "2025-07-14T05:40:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_957",
+    "scan_id": "scan_1956",
+    "scan_time": "2025-07-20T03:40:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_257",
+    "scan_id": "scan_1256",
+    "scan_time": "2025-07-15T07:00:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_525",
+    "scan_id": "scan_1524",
+    "scan_time": "2025-07-17T03:40:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_9",
+    "scan_id": "scan_1008",
+    "scan_time": "2025-07-13T13:40:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_939",
+    "scan_id": "scan_1938",
+    "scan_time": "2025-07-20T00:40:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_111",
+    "scan_id": "scan_1110",
+    "scan_time": "2025-07-14T06:40:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_263",
+    "scan_id": "scan_1262",
+    "scan_time": "2025-07-15T08:00:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_970",
+    "scan_id": "scan_1969",
+    "scan_time": "2025-07-20T05:50:00",
+    "ai_score": 0.9
+  },
+  {
+    "patient_id": "patient_919",
+    "scan_id": "scan_1918",
+    "scan_time": "2025-07-19T21:20:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_590",
+    "scan_id": "scan_1589",
+    "scan_time": "2025-07-17T14:30:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_719",
+    "scan_id": "scan_1718",
+    "scan_time": "2025-07-18T12:00:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_937",
+    "scan_id": "scan_1936",
+    "scan_time": "2025-07-20T00:20:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_640",
+    "scan_id": "scan_1639",
+    "scan_time": "2025-07-17T22:50:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_856",
+    "scan_id": "scan_1855",
+    "scan_time": "2025-07-19T10:50:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_576",
+    "scan_id": "scan_1575",
+    "scan_time": "2025-07-17T12:10:00",
+    "ai_score": 0.29
+  },
+  {
+    "patient_id": "patient_325",
+    "scan_id": "scan_1324",
+    "scan_time": "2025-07-15T18:20:00",
+    "ai_score": 0.82
+  },
+  {
+    "patient_id": "patient_978",
+    "scan_id": "scan_1977",
+    "scan_time": "2025-07-20T07:10:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_150",
+    "scan_id": "scan_1149",
+    "scan_time": "2025-07-14T13:10:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_376",
+    "scan_id": "scan_1375",
+    "scan_time": "2025-07-16T02:50:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_929",
+    "scan_id": "scan_1928",
+    "scan_time": "2025-07-19T23:00:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_948",
+    "scan_id": "scan_1947",
+    "scan_time": "2025-07-20T02:10:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_809",
+    "scan_id": "scan_1808",
+    "scan_time": "2025-07-19T03:00:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_210",
+    "scan_id": "scan_1209",
+    "scan_time": "2025-07-14T23:10:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_911",
+    "scan_id": "scan_1910",
+    "scan_time": "2025-07-19T20:00:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_275",
+    "scan_id": "scan_1274",
+    "scan_time": "2025-07-15T10:00:00",
+    "ai_score": 0.11
+  },
+  {
+    "patient_id": "patient_591",
+    "scan_id": "scan_1590",
+    "scan_time": "2025-07-17T14:40:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_751",
+    "scan_id": "scan_1750",
+    "scan_time": "2025-07-18T17:20:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_790",
+    "scan_id": "scan_1789",
+    "scan_time": "2025-07-18T23:50:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_677",
+    "scan_id": "scan_1676",
+    "scan_time": "2025-07-18T05:00:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_861",
+    "scan_id": "scan_1860",
+    "scan_time": "2025-07-19T11:40:00",
+    "ai_score": 0.0
+  },
+  {
+    "patient_id": "patient_698",
+    "scan_id": "scan_1697",
+    "scan_time": "2025-07-18T08:30:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_262",
+    "scan_id": "scan_1261",
+    "scan_time": "2025-07-15T07:50:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_626",
+    "scan_id": "scan_1625",
+    "scan_time": "2025-07-17T20:30:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_120",
+    "scan_id": "scan_1119",
+    "scan_time": "2025-07-14T08:10:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_367",
+    "scan_id": "scan_1366",
+    "scan_time": "2025-07-16T01:20:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_523",
+    "scan_id": "scan_1522",
+    "scan_time": "2025-07-17T03:20:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_607",
+    "scan_id": "scan_1606",
+    "scan_time": "2025-07-17T17:20:00",
+    "ai_score": 0.58
+  },
+  {
+    "patient_id": "patient_818",
+    "scan_id": "scan_1817",
+    "scan_time": "2025-07-19T04:30:00",
+    "ai_score": 0.87
+  },
+  {
+    "patient_id": "patient_171",
+    "scan_id": "scan_1170",
+    "scan_time": "2025-07-14T16:40:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_643",
+    "scan_id": "scan_1642",
+    "scan_time": "2025-07-17T23:20:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_215",
+    "scan_id": "scan_1214",
+    "scan_time": "2025-07-15T00:00:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_913",
+    "scan_id": "scan_1912",
+    "scan_time": "2025-07-19T20:20:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_502",
+    "scan_id": "scan_1501",
+    "scan_time": "2025-07-16T23:50:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_239",
+    "scan_id": "scan_1238",
+    "scan_time": "2025-07-15T04:00:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_308",
+    "scan_id": "scan_1307",
+    "scan_time": "2025-07-15T15:30:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_958",
+    "scan_id": "scan_1957",
+    "scan_time": "2025-07-20T03:50:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_13",
+    "scan_id": "scan_1012",
+    "scan_time": "2025-07-13T14:20:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_129",
+    "scan_id": "scan_1128",
+    "scan_time": "2025-07-14T09:40:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_667",
+    "scan_id": "scan_1666",
+    "scan_time": "2025-07-18T03:20:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_997",
+    "scan_id": "scan_1996",
+    "scan_time": "2025-07-20T10:20:00",
+    "ai_score": 0.41
+  },
+  {
+    "patient_id": "patient_623",
+    "scan_id": "scan_1622",
+    "scan_time": "2025-07-17T20:00:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_6",
+    "scan_id": "scan_1005",
+    "scan_time": "2025-07-13T13:10:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_484",
+    "scan_id": "scan_1483",
+    "scan_time": "2025-07-16T20:50:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_538",
+    "scan_id": "scan_1537",
+    "scan_time": "2025-07-17T05:50:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_100",
+    "scan_id": "scan_1099",
+    "scan_time": "2025-07-14T04:50:00",
+    "ai_score": 0.71
+  },
+  {
+    "patient_id": "patient_855",
+    "scan_id": "scan_1854",
+    "scan_time": "2025-07-19T10:40:00",
+    "ai_score": 0.59
+  },
+  {
+    "patient_id": "patient_533",
+    "scan_id": "scan_1532",
+    "scan_time": "2025-07-17T05:00:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_648",
+    "scan_id": "scan_1647",
+    "scan_time": "2025-07-18T00:10:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_299",
+    "scan_id": "scan_1298",
+    "scan_time": "2025-07-15T14:00:00",
+    "ai_score": 0.84
+  },
+  {
+    "patient_id": "patient_831",
+    "scan_id": "scan_1830",
+    "scan_time": "2025-07-19T06:40:00",
+    "ai_score": 0.44
+  },
+  {
+    "patient_id": "patient_580",
+    "scan_id": "scan_1579",
+    "scan_time": "2025-07-17T12:50:00",
+    "ai_score": 0.34
+  },
+  {
+    "patient_id": "patient_663",
+    "scan_id": "scan_1662",
+    "scan_time": "2025-07-18T02:40:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_824",
+    "scan_id": "scan_1823",
+    "scan_time": "2025-07-19T05:30:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_747",
+    "scan_id": "scan_1746",
+    "scan_time": "2025-07-18T16:40:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_794",
+    "scan_id": "scan_1793",
+    "scan_time": "2025-07-19T00:30:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_94",
+    "scan_id": "scan_1093",
+    "scan_time": "2025-07-14T03:50:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_7",
+    "scan_id": "scan_1006",
+    "scan_time": "2025-07-13T13:20:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_184",
+    "scan_id": "scan_1183",
+    "scan_time": "2025-07-14T18:50:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_541",
+    "scan_id": "scan_1540",
+    "scan_time": "2025-07-17T06:20:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_527",
+    "scan_id": "scan_1526",
+    "scan_time": "2025-07-17T04:00:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_244",
+    "scan_id": "scan_1243",
+    "scan_time": "2025-07-15T04:50:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_41",
+    "scan_id": "scan_1040",
+    "scan_time": "2025-07-13T19:00:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_386",
+    "scan_id": "scan_1385",
+    "scan_time": "2025-07-16T04:30:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_359",
+    "scan_id": "scan_1358",
+    "scan_time": "2025-07-16T00:00:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_879",
+    "scan_id": "scan_1878",
+    "scan_time": "2025-07-19T14:40:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_696",
+    "scan_id": "scan_1695",
+    "scan_time": "2025-07-18T08:10:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_813",
+    "scan_id": "scan_1812",
+    "scan_time": "2025-07-19T03:40:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_944",
+    "scan_id": "scan_1943",
+    "scan_time": "2025-07-20T01:30:00",
+    "ai_score": 0.73
+  },
+  {
+    "patient_id": "patient_689",
+    "scan_id": "scan_1688",
+    "scan_time": "2025-07-18T07:00:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_352",
+    "scan_id": "scan_1351",
+    "scan_time": "2025-07-15T22:50:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_780",
+    "scan_id": "scan_1779",
+    "scan_time": "2025-07-18T22:10:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_742",
+    "scan_id": "scan_1741",
+    "scan_time": "2025-07-18T15:50:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_535",
+    "scan_id": "scan_1534",
+    "scan_time": "2025-07-17T05:20:00",
+    "ai_score": 0.71
+  },
+  {
+    "patient_id": "patient_934",
+    "scan_id": "scan_1933",
+    "scan_time": "2025-07-19T23:50:00",
+    "ai_score": 1.0
+  },
+  {
+    "patient_id": "patient_369",
+    "scan_id": "scan_1368",
+    "scan_time": "2025-07-16T01:40:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_659",
+    "scan_id": "scan_1658",
+    "scan_time": "2025-07-18T02:00:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_631",
+    "scan_id": "scan_1630",
+    "scan_time": "2025-07-17T21:20:00",
+    "ai_score": 0.55
+  },
+  {
+    "patient_id": "patient_67",
+    "scan_id": "scan_1066",
+    "scan_time": "2025-07-13T23:20:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_974",
+    "scan_id": "scan_1973",
+    "scan_time": "2025-07-20T06:30:00",
+    "ai_score": 0.09
+  },
+  {
+    "patient_id": "patient_330",
+    "scan_id": "scan_1329",
+    "scan_time": "2025-07-15T19:10:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_476",
+    "scan_id": "scan_1475",
+    "scan_time": "2025-07-16T19:30:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_49",
+    "scan_id": "scan_1048",
+    "scan_time": "2025-07-13T20:20:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_967",
+    "scan_id": "scan_1966",
+    "scan_time": "2025-07-20T05:20:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_620",
+    "scan_id": "scan_1619",
+    "scan_time": "2025-07-17T19:30:00",
+    "ai_score": 0.03
+  },
+  {
+    "patient_id": "patient_35",
+    "scan_id": "scan_1034",
+    "scan_time": "2025-07-13T18:00:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_808",
+    "scan_id": "scan_1807",
+    "scan_time": "2025-07-19T02:50:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_418",
+    "scan_id": "scan_1417",
+    "scan_time": "2025-07-16T09:50:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_388",
+    "scan_id": "scan_1387",
+    "scan_time": "2025-07-16T04:50:00",
+    "ai_score": 0.06
+  },
+  {
+    "patient_id": "patient_31",
+    "scan_id": "scan_1030",
+    "scan_time": "2025-07-13T17:20:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_422",
+    "scan_id": "scan_1421",
+    "scan_time": "2025-07-16T10:30:00",
+    "ai_score": 1.0
+  },
+  {
+    "patient_id": "patient_807",
+    "scan_id": "scan_1806",
+    "scan_time": "2025-07-19T02:40:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_40",
+    "scan_id": "scan_1039",
+    "scan_time": "2025-07-13T18:50:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_149",
+    "scan_id": "scan_1148",
+    "scan_time": "2025-07-14T13:00:00",
+    "ai_score": 0.8
+  },
+  {
+    "patient_id": "patient_43",
+    "scan_id": "scan_1042",
+    "scan_time": "2025-07-13T19:20:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_123",
+    "scan_id": "scan_1122",
+    "scan_time": "2025-07-14T08:40:00",
+    "ai_score": 0.15
+  },
+  {
+    "patient_id": "patient_288",
+    "scan_id": "scan_1287",
+    "scan_time": "2025-07-15T12:10:00",
+    "ai_score": 0.24
+  },
+  {
+    "patient_id": "patient_577",
+    "scan_id": "scan_1576",
+    "scan_time": "2025-07-17T12:20:00",
+    "ai_score": 0.31
+  },
+  {
+    "patient_id": "patient_177",
+    "scan_id": "scan_1176",
+    "scan_time": "2025-07-14T17:40:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_153",
+    "scan_id": "scan_1152",
+    "scan_time": "2025-07-14T13:40:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_360",
+    "scan_id": "scan_1359",
+    "scan_time": "2025-07-16T00:10:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_356",
+    "scan_id": "scan_1355",
+    "scan_time": "2025-07-15T23:30:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_309",
+    "scan_id": "scan_1308",
+    "scan_time": "2025-07-15T15:40:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_950",
+    "scan_id": "scan_1949",
+    "scan_time": "2025-07-20T02:30:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_981",
+    "scan_id": "scan_1980",
+    "scan_time": "2025-07-20T07:40:00",
+    "ai_score": 0.81
+  },
+  {
+    "patient_id": "patient_666",
+    "scan_id": "scan_1665",
+    "scan_time": "2025-07-18T03:10:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_400",
+    "scan_id": "scan_1399",
+    "scan_time": "2025-07-16T06:50:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_411",
+    "scan_id": "scan_1410",
+    "scan_time": "2025-07-16T08:40:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_249",
+    "scan_id": "scan_1248",
+    "scan_time": "2025-07-15T05:40:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_363",
+    "scan_id": "scan_1362",
+    "scan_time": "2025-07-16T00:40:00",
+    "ai_score": 0.22
+  },
+  {
+    "patient_id": "patient_416",
+    "scan_id": "scan_1415",
+    "scan_time": "2025-07-16T09:30:00",
+    "ai_score": 0.07
+  },
+  {
+    "patient_id": "patient_681",
+    "scan_id": "scan_1680",
+    "scan_time": "2025-07-18T05:40:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_345",
+    "scan_id": "scan_1344",
+    "scan_time": "2025-07-15T21:40:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_605",
+    "scan_id": "scan_1604",
+    "scan_time": "2025-07-17T17:00:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_534",
+    "scan_id": "scan_1533",
+    "scan_time": "2025-07-17T05:10:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_718",
+    "scan_id": "scan_1717",
+    "scan_time": "2025-07-18T11:50:00",
+    "ai_score": 0.25
+  },
+  {
+    "patient_id": "patient_530",
+    "scan_id": "scan_1529",
+    "scan_time": "2025-07-17T04:30:00",
+    "ai_score": 0.69
+  },
+  {
+    "patient_id": "patient_935",
+    "scan_id": "scan_1934",
+    "scan_time": "2025-07-20T00:00:00",
+    "ai_score": 0.23
+  },
+  {
+    "patient_id": "patient_230",
+    "scan_id": "scan_1229",
+    "scan_time": "2025-07-15T02:30:00",
+    "ai_score": 0.7
+  },
+  {
+    "patient_id": "patient_504",
+    "scan_id": "scan_1503",
+    "scan_time": "2025-07-17T00:10:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_88",
+    "scan_id": "scan_1087",
+    "scan_time": "2025-07-14T02:50:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_839",
+    "scan_id": "scan_1838",
+    "scan_time": "2025-07-19T08:00:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_132",
+    "scan_id": "scan_1131",
+    "scan_time": "2025-07-14T10:10:00",
+    "ai_score": 0.71
+  },
+  {
+    "patient_id": "patient_619",
+    "scan_id": "scan_1618",
+    "scan_time": "2025-07-17T19:20:00",
+    "ai_score": 0.8
+  },
+  {
+    "patient_id": "patient_512",
+    "scan_id": "scan_1511",
+    "scan_time": "2025-07-17T01:30:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_124",
+    "scan_id": "scan_1123",
+    "scan_time": "2025-07-14T08:50:00",
+    "ai_score": 0.82
+  },
+  {
+    "patient_id": "patient_248",
+    "scan_id": "scan_1247",
+    "scan_time": "2025-07-15T05:30:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_872",
+    "scan_id": "scan_1871",
+    "scan_time": "2025-07-19T13:30:00",
+    "ai_score": 0.78
+  },
+  {
+    "patient_id": "patient_457",
+    "scan_id": "scan_1456",
+    "scan_time": "2025-07-16T16:20:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_267",
+    "scan_id": "scan_1266",
+    "scan_time": "2025-07-15T08:40:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_862",
+    "scan_id": "scan_1861",
+    "scan_time": "2025-07-19T11:50:00",
+    "ai_score": 0.77
+  },
+  {
+    "patient_id": "patient_17",
+    "scan_id": "scan_1016",
+    "scan_time": "2025-07-13T15:00:00",
+    "ai_score": 0.64
+  },
+  {
+    "patient_id": "patient_753",
+    "scan_id": "scan_1752",
+    "scan_time": "2025-07-18T17:40:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_163",
+    "scan_id": "scan_1162",
+    "scan_time": "2025-07-14T15:20:00",
+    "ai_score": 0.48
+  },
+  {
+    "patient_id": "patient_694",
+    "scan_id": "scan_1693",
+    "scan_time": "2025-07-18T07:50:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_550",
+    "scan_id": "scan_1549",
+    "scan_time": "2025-07-17T07:50:00",
+    "ai_score": 0.16
+  },
+  {
+    "patient_id": "patient_427",
+    "scan_id": "scan_1426",
+    "scan_time": "2025-07-16T11:20:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": "patient_392",
+    "scan_id": "scan_1391",
+    "scan_time": "2025-07-16T05:30:00",
+    "ai_score": 0.57
+  },
+  {
+    "patient_id": "patient_819",
+    "scan_id": "scan_1818",
+    "scan_time": "2025-07-19T04:40:00",
+    "ai_score": 0.04
+  },
+  {
+    "patient_id": "patient_448",
+    "scan_id": "scan_1447",
+    "scan_time": "2025-07-16T14:50:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_430",
+    "scan_id": "scan_1429",
+    "scan_time": "2025-07-16T11:50:00",
+    "ai_score": 0.82
+  },
+  {
+    "patient_id": "patient_921",
+    "scan_id": "scan_1920",
+    "scan_time": "2025-07-19T21:40:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_828",
+    "scan_id": "scan_1827",
+    "scan_time": "2025-07-19T06:10:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_563",
+    "scan_id": "scan_1562",
+    "scan_time": "2025-07-17T10:00:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_237",
+    "scan_id": "scan_1236",
+    "scan_time": "2025-07-15T03:40:00",
+    "ai_score": 0.65
+  },
+  {
+    "patient_id": "patient_745",
+    "scan_id": "scan_1744",
+    "scan_time": "2025-07-18T16:20:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_271",
+    "scan_id": "scan_1270",
+    "scan_time": "2025-07-15T09:20:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_589",
+    "scan_id": "scan_1588",
+    "scan_time": "2025-07-17T14:20:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_488",
+    "scan_id": "scan_1487",
+    "scan_time": "2025-07-16T21:30:00",
+    "ai_score": 0.51
+  },
+  {
+    "patient_id": "patient_774",
+    "scan_id": "scan_1773",
+    "scan_time": "2025-07-18T21:10:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_787",
+    "scan_id": "scan_1786",
+    "scan_time": "2025-07-18T23:20:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_852",
+    "scan_id": "scan_1851",
+    "scan_time": "2025-07-19T10:10:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_713",
+    "scan_id": "scan_1712",
+    "scan_time": "2025-07-18T11:00:00",
+    "ai_score": 0.4
+  },
+  {
+    "patient_id": "patient_717",
+    "scan_id": "scan_1716",
+    "scan_time": "2025-07-18T11:40:00",
+    "ai_score": 0.95
+  },
+  {
+    "patient_id": "patient_255",
+    "scan_id": "scan_1254",
+    "scan_time": "2025-07-15T06:40:00",
+    "ai_score": 0.81
+  },
+  {
+    "patient_id": "patient_892",
+    "scan_id": "scan_1891",
+    "scan_time": "2025-07-19T16:50:00",
+    "ai_score": 0.82
+  },
+  {
+    "patient_id": "patient_180",
+    "scan_id": "scan_1179",
+    "scan_time": "2025-07-14T18:10:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_235",
+    "scan_id": "scan_1234",
+    "scan_time": "2025-07-15T03:20:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_961",
+    "scan_id": "scan_1960",
+    "scan_time": "2025-07-20T04:20:00",
+    "ai_score": 0.88
+  },
+  {
+    "patient_id": "patient_985",
+    "scan_id": "scan_1984",
+    "scan_time": "2025-07-20T08:20:00",
+    "ai_score": 0.32
+  },
+  {
+    "patient_id": "patient_938",
+    "scan_id": "scan_1937",
+    "scan_time": "2025-07-20T00:30:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_678",
+    "scan_id": "scan_1677",
+    "scan_time": "2025-07-18T05:10:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_500",
+    "scan_id": "scan_1499",
+    "scan_time": "2025-07-16T23:30:00",
+    "ai_score": 0.62
+  },
+  {
+    "patient_id": "patient_380",
+    "scan_id": "scan_1379",
+    "scan_time": "2025-07-16T03:30:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_749",
+    "scan_id": "scan_1748",
+    "scan_time": "2025-07-18T17:00:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_632",
+    "scan_id": "scan_1631",
+    "scan_time": "2025-07-17T21:30:00",
+    "ai_score": 0.43
+  },
+  {
+    "patient_id": "patient_565",
+    "scan_id": "scan_1564",
+    "scan_time": "2025-07-17T10:20:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_586",
+    "scan_id": "scan_1585",
+    "scan_time": "2025-07-17T13:50:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_214",
+    "scan_id": "scan_1213",
+    "scan_time": "2025-07-14T23:50:00",
+    "ai_score": 0.18
+  },
+  {
+    "patient_id": "patient_2",
+    "scan_id": "scan_1001",
+    "scan_time": "2025-07-13T12:30:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_942",
+    "scan_id": "scan_1941",
+    "scan_time": "2025-07-20T01:10:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_394",
+    "scan_id": "scan_1393",
+    "scan_time": "2025-07-16T05:50:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_668",
+    "scan_id": "scan_1667",
+    "scan_time": "2025-07-18T03:30:00",
+    "ai_score": 0.5
+  },
+  {
+    "patient_id": "patient_609",
+    "scan_id": "scan_1608",
+    "scan_time": "2025-07-17T17:40:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": "patient_588",
+    "scan_id": "scan_1587",
+    "scan_time": "2025-07-17T14:10:00",
+    "ai_score": 0.19
+  },
+  {
+    "patient_id": "patient_843",
+    "scan_id": "scan_1842",
+    "scan_time": "2025-07-19T08:40:00",
+    "ai_score": 0.08
+  },
+  {
+    "patient_id": "patient_507",
+    "scan_id": "scan_1506",
+    "scan_time": "2025-07-17T00:40:00",
+    "ai_score": 0.53
+  },
+  {
+    "patient_id": "patient_618",
+    "scan_id": "scan_1617",
+    "scan_time": "2025-07-17T19:10:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_946",
+    "scan_id": "scan_1945",
+    "scan_time": "2025-07-20T01:50:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_39",
+    "scan_id": "scan_1038",
+    "scan_time": "2025-07-13T18:40:00",
+    "ai_score": 0.96
+  },
+  {
+    "patient_id": "patient_351",
+    "scan_id": "scan_1350",
+    "scan_time": "2025-07-15T22:40:00",
+    "ai_score": 0.2
+  },
+  {
+    "patient_id": "patient_80",
+    "scan_id": "scan_1079",
+    "scan_time": "2025-07-14T01:30:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_458",
+    "scan_id": "scan_1457",
+    "scan_time": "2025-07-16T16:30:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_201",
+    "scan_id": "scan_1200",
+    "scan_time": "2025-07-14T21:40:00",
+    "ai_score": 0.67
+  },
+  {
+    "patient_id": "patient_955",
+    "scan_id": "scan_1954",
+    "scan_time": "2025-07-20T03:20:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_814",
+    "scan_id": "scan_1813",
+    "scan_time": "2025-07-19T03:50:00",
+    "ai_score": 0.61
+  },
+  {
+    "patient_id": "patient_63",
+    "scan_id": "scan_1062",
+    "scan_time": "2025-07-13T22:40:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_849",
+    "scan_id": "scan_1848",
+    "scan_time": "2025-07-19T09:40:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_708",
+    "scan_id": "scan_1707",
+    "scan_time": "2025-07-18T10:10:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_327",
+    "scan_id": "scan_1326",
+    "scan_time": "2025-07-15T18:40:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_318",
+    "scan_id": "scan_1317",
+    "scan_time": "2025-07-15T17:10:00",
+    "ai_score": 0.39
+  },
+  {
+    "patient_id": "patient_137",
+    "scan_id": "scan_1136",
+    "scan_time": "2025-07-14T11:00:00",
+    "ai_score": 0.12
+  },
+  {
+    "patient_id": "patient_905",
+    "scan_id": "scan_1904",
+    "scan_time": "2025-07-19T19:00:00",
+    "ai_score": 0.28
+  },
+  {
+    "patient_id": "patient_232",
+    "scan_id": "scan_1231",
+    "scan_time": "2025-07-15T02:50:00",
+    "ai_score": 0.38
+  },
+  {
+    "patient_id": "patient_803",
+    "scan_id": "scan_1802",
+    "scan_time": "2025-07-19T02:00:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_890",
+    "scan_id": "scan_1889",
+    "scan_time": "2025-07-19T16:30:00",
+    "ai_score": 0.98
+  },
+  {
+    "patient_id": "patient_300",
+    "scan_id": "scan_1299",
+    "scan_time": "2025-07-15T14:10:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_293",
+    "scan_id": "scan_1292",
+    "scan_time": "2025-07-15T13:00:00",
+    "ai_score": 0.76
+  },
+  {
+    "patient_id": "patient_899",
+    "scan_id": "scan_1898",
+    "scan_time": "2025-07-19T18:00:00",
+    "ai_score": 0.75
+  },
+  {
+    "patient_id": "patient_784",
+    "scan_id": "scan_1783",
+    "scan_time": "2025-07-18T22:50:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_347",
+    "scan_id": "scan_1346",
+    "scan_time": "2025-07-15T22:00:00",
+    "ai_score": 0.01
+  },
+  {
+    "patient_id": "patient_18",
+    "scan_id": "scan_1017",
+    "scan_time": "2025-07-13T15:10:00",
+    "ai_score": 0.85
+  },
+  {
+    "patient_id": "patient_461",
+    "scan_id": "scan_1460",
+    "scan_time": "2025-07-16T17:00:00",
+    "ai_score": 0.92
+  },
+  {
+    "patient_id": "patient_906",
+    "scan_id": "scan_1905",
+    "scan_time": "2025-07-19T19:10:00",
+    "ai_score": 0.81
+  },
+  {
+    "patient_id": "patient_983",
+    "scan_id": "scan_1982",
+    "scan_time": "2025-07-20T08:00:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_811",
+    "scan_id": "scan_1810",
+    "scan_time": "2025-07-19T03:20:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_680",
+    "scan_id": "scan_1679",
+    "scan_time": "2025-07-18T05:30:00",
+    "ai_score": 0.13
+  },
+  {
+    "patient_id": "patient_878",
+    "scan_id": "scan_1877",
+    "scan_time": "2025-07-19T14:30:00",
+    "ai_score": 0.91
+  },
+  {
+    "patient_id": "patient_92",
+    "scan_id": "scan_1091",
+    "scan_time": "2025-07-14T03:30:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_901",
+    "scan_id": "scan_1900",
+    "scan_time": "2025-07-19T18:20:00",
+    "ai_score": 0.49
+  },
+  {
+    "patient_id": "patient_735",
+    "scan_id": "scan_1734",
+    "scan_time": "2025-07-18T14:40:00",
+    "ai_score": 0.81
+  },
+  {
+    "patient_id": "patient_521",
+    "scan_id": "scan_1520",
+    "scan_time": "2025-07-17T03:00:00",
+    "ai_score": 0.97
+  },
+  {
+    "patient_id": "patient_395",
+    "scan_id": "scan_1394",
+    "scan_time": "2025-07-16T06:00:00",
+    "ai_score": 0.89
+  },
+  {
+    "patient_id": "patient_152",
+    "scan_id": "scan_1151",
+    "scan_time": "2025-07-14T13:30:00",
+    "ai_score": 0.3
+  },
+  {
+    "patient_id": "patient_482",
+    "scan_id": "scan_1481",
+    "scan_time": "2025-07-16T20:30:00",
+    "ai_score": 0.42
+  },
+  {
+    "patient_id": "patient_775",
+    "scan_id": "scan_1774",
+    "scan_time": "2025-07-18T21:20:00",
+    "ai_score": 0.14
+  },
+  {
+    "patient_id": "patient_478",
+    "scan_id": "scan_1477",
+    "scan_time": "2025-07-16T19:50:00",
+    "ai_score": 0.86
+  },
+  {
+    "patient_id": "patient_398",
+    "scan_id": "scan_1397",
+    "scan_time": "2025-07-16T06:30:00",
+    "ai_score": 0.35
+  },
+  {
+    "patient_id": "patient_349",
+    "scan_id": "scan_1348",
+    "scan_time": "2025-07-15T22:20:00",
+    "ai_score": 0.26
+  },
+  {
+    "patient_id": "patient_555",
+    "scan_id": "scan_1554",
+    "scan_time": "2025-07-17T08:40:00",
+    "ai_score": 0.74
+  },
+  {
+    "patient_id": "patient_234",
+    "scan_id": "scan_1233",
+    "scan_time": "2025-07-15T03:10:00",
+    "ai_score": 0.33
+  },
+  {
+    "patient_id": "patient_440",
+    "scan_id": "scan_1439",
+    "scan_time": "2025-07-16T13:30:00",
+    "ai_score": 0.79
+  },
+  {
+    "patient_id": "patient_760",
+    "scan_id": "scan_1759",
+    "scan_time": "2025-07-18T18:50:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_441",
+    "scan_id": "scan_1440",
+    "scan_time": "2025-07-16T13:40:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_646",
+    "scan_id": "scan_1645",
+    "scan_time": "2025-07-17T23:50:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_826",
+    "scan_id": "scan_1825",
+    "scan_time": "2025-07-19T05:50:00",
+    "ai_score": 0.94
+  },
+  {
+    "patient_id": "patient_487",
+    "scan_id": "scan_1486",
+    "scan_time": "2025-07-16T21:20:00",
+    "ai_score": 0.46
+  },
+  {
+    "patient_id": "patient_455",
+    "scan_id": "scan_1454",
+    "scan_time": "2025-07-16T16:00:00",
+    "ai_score": 0.27
+  },
+  {
+    "patient_id": "patient_479",
+    "scan_id": "scan_1478",
+    "scan_time": "2025-07-16T20:00:00",
+    "ai_score": 0.17
+  },
+  {
+    "patient_id": "patient_254",
+    "scan_id": "scan_1253",
+    "scan_time": "2025-07-15T06:30:00",
+    "ai_score": 0.1
+  },
+  {
+    "patient_id": "patient_712",
+    "scan_id": "scan_1711",
+    "scan_time": "2025-07-18T10:50:00",
+    "ai_score": 0.52
+  },
+  {
+    "patient_id": "patient_371",
+    "scan_id": "scan_1370",
+    "scan_time": "2025-07-16T02:00:00",
+    "ai_score": 0.05
+  },
+  {
+    "patient_id": "patient_145",
+    "scan_id": "scan_1144",
+    "scan_time": "2025-07-14T12:20:00",
+    "ai_score": 0.54
+  },
+  {
+    "patient_id": "patient_390",
+    "scan_id": "scan_1389",
+    "scan_time": "2025-07-16T05:10:00",
+    "ai_score": 0.72
+  },
+  {
+    "patient_id": "patient_516",
+    "scan_id": "scan_1515",
+    "scan_time": "2025-07-17T02:10:00",
+    "ai_score": 0.63
+  },
+  {
+    "patient_id": "patient_910",
+    "scan_id": "scan_1909",
+    "scan_time": "2025-07-19T19:50:00",
+    "ai_score": 0.02
+  },
+  {
+    "patient_id": "patient_900",
+    "scan_id": "scan_1899",
+    "scan_time": "2025-07-19T18:10:00",
+    "ai_score": 0.2
+  }
+]
