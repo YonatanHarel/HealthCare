@@ -2,9 +2,7 @@ import json
 from datetime import datetime
 from typing import List
 
-from pydantic import BaseModel, Field, ValidationError, field_validator
-from pydantic_core._pydantic_core import PydanticCustomError
-
+from pydantic import BaseModel, Field, ValidationError
 
 class DataSchema(BaseModel):
     patient_id: str = Field(..., min_length=1)

@@ -1,7 +1,9 @@
+import dataclasses
 import statistics
 from collections import deque
 
 
+@dataclasses.dataclass
 class AnomalyDetector:
     def __init__(self, window_size=20, threshold=2):
         self.window_size = window_size

@@ -1,6 +1,6 @@
 import json
-from pydantic import ValidationError
 from JSON_Normalizer.models import ScanEntry
+from pydantic import ValidationError
 
 
 def load_json_from_file(filepath):
@@ -8,7 +8,7 @@ def load_json_from_file(filepath):
         return json.load(f)
 
 
-def json_normalizer(data):
+def json_normalizer(data_dict):
     # entries = [ScanEntry(**record) for record in data]
     # flattened = [flatten_entry(entry) for entry in entries]
     #
@@ -17,7 +17,7 @@ def json_normalizer(data):
     valid_entries_list = []
     errors_list = []
 
-    for idx, item in enumerate(data):
+    for idx, item in enumerate(data_dict):
         try:
             entry = ScanEntry(**item)
             valid_entries_list.append(flatten_entry(entry))
