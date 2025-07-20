@@ -14,5 +14,5 @@ def daily_summary_generator(filepath: str):
 
 
 if __name__ == '__main__':
-    csv_data_filepath = 'sample_scan_data.csv'
-    daily_summary_generator(csv_data_filepath)
+    CSV_DATA_FILEPATH = 'sample_scan_data.csv'
+    daily_summary_generator(CSV_DATA_FILEPATH)
