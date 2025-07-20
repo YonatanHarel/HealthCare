@@ -1,6 +1,5 @@
 import json
 from pydantic import ValidationError
-
 from JSON_Normalizer.models import ScanEntry
 
 
@@ -15,21 +14,21 @@ def json_normalizer(data):
     #
     # return flattened
 
-    valid_entries = []
-    errors = []
+    valid_entries_list = []
+    errors_list = []
 
     for idx, item in enumerate(data):
         try:
             entry = ScanEntry(**item)
-            valid_entries.append(flatten_entry(entry))
+            valid_entries_list.append(flatten_entry(entry))
         except ValidationError as e:
-            errors.append({
+            errors_list.append({
                 "index": idx,
                 "error": e.errors(),  # detailed error list
                 "raw_data": item  # optional: include offending record
             })
 
-    return valid_entries, errors
+    return valid_entries_list, errors_list
 
 
 def flatten_entry(entry: ScanEntry) -> dict:
@@ -42,9 +41,8 @@ def flatten_entry(entry: ScanEntry) -> dict:
 
 
 if __name__ == '__main__':
-    filepath = 'expanded_nested_scans.json'
-    data = load_json_from_file(filepath)
+    FILEPATH = 'expanded_nested_scans.json'
+    data = load_json_from_file(FILEPATH)
     valid_entries, errors = json_normalizer(data)
     print(f"we have {len(valid_entries)} valid entries")
     print(f"we have {len(errors)} invalid entries")
-

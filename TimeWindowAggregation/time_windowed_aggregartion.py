@@ -13,9 +13,9 @@ def load_json_file(filepath: str):
         return json.load(f)
 
 
-def windowed_aggregate(data: List[dict]):
+def windowed_aggregate(data_list: List[dict]):
     # convert to dataframe
-    df = pd.DataFrame(data)
+    df = pd.DataFrame(data_list)
 
     # convert to datetime and sort by scan_time
     df['scan_time'] = pd.to_datetime(df['scan_time'])
@@ -25,12 +25,12 @@ def windowed_aggregate(data: List[dict]):
     df['window_start'] = df.groupby('patient_id')['scan_time'].transform(lambda x: x.dt.floor('5min'))
 
     # keep only the first scan per window
-    results = df.groupby(['patient_id', 'window_start'], as_index=False).first()
+    rslts = df.groupby(['patient_id', 'window_start'], as_index=False).first()
 
     # remove helper column
-    results = results.drop(columns='window_start')
+    rslts = rslts.drop(columns='window_start')
 
-    return results
+    return rslts
 
 
 if __name__ == '__main__':
@@ -42,7 +42,7 @@ if __name__ == '__main__':
     #     {"patient_id": 2, "scan_time": "2025-07-13T10:07:00Z", "ai_score": 0.89},
     # ]
 
-    json_data_filepath = 'patient_scan_records_constrained_1000.json'
-    data = load_json_file(json_data_filepath)
+    JSON_DATA_FILEPATH = 'patient_scan_records_constrained_1000.json'
+    data = load_json_file(JSON_DATA_FILEPATH)
     results = windowed_aggregate(data)
     print(results)

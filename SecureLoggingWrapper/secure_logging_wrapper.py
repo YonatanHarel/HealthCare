@@ -72,7 +72,7 @@ def handle_batch_data(batch_data):
 
 
 if __name__ == '__main__':
-    filepath = "patient_scan_10.json"
-    batch_data = load_json_file(filepath)
+    FILEPATH = "patient_scan_10.json"
+    batch_data = load_json_file(FILEPATH)
 
     handle_batch_data(batch_data)

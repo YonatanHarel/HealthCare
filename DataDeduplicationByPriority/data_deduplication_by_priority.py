@@ -16,9 +16,9 @@ def load_json_file(filepath: str):
         return json.load(f)
 
 
-def deduplicate(data: List[dict]) -> List[dict]:
+def deduplicate(data_dict: List[dict]) -> List[dict]:
     deduplicated_dict = {}
-    for key, record in enumerate(data):
+    for _, record in enumerate(data_dict):
         try:
             model = Record(**record)
             exist_record = deduplicated_dict.get(model.patient_id, None)
@@ -40,14 +40,9 @@ def deduplicate(data: List[dict]) -> List[dict]:
 
 
 if __name__ == '__main__':
-    filepath = "patient_scan_10.json"
-    data = load_json_file(filepath)
+    FILEPATH = "patient_scan_10.json"
+    data = load_json_file(FILEPATH)
 
     if not isinstance(data, list):
         raise ValueError("Input must be list of records")
-    else:
-        deduplicated_result = deduplicate(data)
-
-
-
-
+    deduplicated_result = deduplicate(data)

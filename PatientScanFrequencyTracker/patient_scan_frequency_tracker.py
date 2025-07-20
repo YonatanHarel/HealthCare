@@ -1,8 +1,8 @@
 from collections import Counter
 
 
-def get_scan_frequency(logs):
-    counter = Counter(log["patient_id"] for log in logs)
+def get_scan_frequency(logs_list):
+    counter = Counter(log["patient_id"] for log in logs_list)
     top_3 = counter.most_common(3)
 
     return {

@@ -44,19 +44,18 @@ def schema_validator(events_json: List[dict]):
 
 
 if __name__ == '__main__':
-    filepath = "patient_scan_records_constrained_1000.json"
-    data = load_json_file(filepath)
+    FILEPATH = "patient_scan_records_constrained_1000.json"
+    data = load_json_file(FILEPATH)
 
     if not isinstance(data, list):
         raise ValueError("Input must be list of records")
-    else:
-        valid, invalid = schema_validator(data)
+    valid, invalid = schema_validator(data)
 
-        print(f'valid records: {len(valid)}')
-        print(f'invalid records: {len(invalid)}')
+    print(f'valid records: {len(valid)}')
+    print(f'invalid records: {len(invalid)}')
 
-        if invalid:
-            print("\n⚠️ Errors:")
-            for err in invalid:
-                print(f"\nRecord #{err['index']}:")
-                print(json.dumps(err["errors"], indent=2, ensure_ascii=False))
+    if invalid:
+        print("\n⚠️ Errors:")
+        for err in invalid:
+            print(f"\nRecord #{err['index']}:")
+            print(json.dumps(err["errors"], indent=2, ensure_ascii=False))
