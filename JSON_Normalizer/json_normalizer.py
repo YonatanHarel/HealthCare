@@ -1,6 +1,6 @@
 import json
-from JSON_Normalizer.models import ScanEntry
 from pydantic import ValidationError
+from JSON_Normalizer.models import ScanEntry
 
 
 def load_json_from_file(filepath):

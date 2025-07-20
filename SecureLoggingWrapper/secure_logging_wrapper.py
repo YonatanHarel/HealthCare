@@ -23,8 +23,7 @@ def mask_sensitive_data(data):
         return masked
     if isinstance(data, list):
         return [mask_sensitive_data(item) for item in data]
-    else:
-        return data
+    return data
 
 
 def mask_and_log(func):
